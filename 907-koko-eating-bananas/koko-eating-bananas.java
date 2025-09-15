@@ -8,14 +8,14 @@ class Solution {
         return m;
     }
 
-    public boolean possible(int[] arr,int k,int h){
-        long count=0;
+    public boolean possible(int[] arr,int speed,int maxhours){
+        long hours=0;
         for(int i=0;i<arr.length;i++){
-            if(arr[i]%k==0) count+=(arr[i]/k);
-            else count+=(arr[i]/k) + 1;
+            if(arr[i]%speed==0) hours+=(arr[i]/speed);
+            else hours+=(arr[i]/speed) + 1;
         }
 
-        return count<=h;
+        return hours<=maxhours;
     }
     public int minEatingSpeed(int[] arr, int h) {
         int st=1;

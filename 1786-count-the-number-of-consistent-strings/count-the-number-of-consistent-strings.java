@@ -10,7 +10,10 @@ class Solution {
             boolean flag=true;
             for(int i=0;i<s.length();i++){
                 char ch=s.charAt(i);
-                if(!set.contains(ch)) flag=false;
+                if(!set.contains(ch)) {
+                    flag=false;
+                    break;
+                }
             }
 
             if(flag) count++;

@@ -3,21 +3,17 @@ class Solution {
         Arrays.sort(arr);
         int n=arr.length;
 
-        int maxProduct=Integer.MIN_VALUE;
-        for(int i=0;i<n;i++){
-            int j=i+1;
-            int k=n-1;
+        int min=arr[0];
+        int s_min=arr[1];
 
-            while(j<k){
-                int product=arr[i]*arr[j]*arr[k];
-                
-                maxProduct=Math.max(product,maxProduct);
+        int max=arr[n-1];
+        int s_max=arr[n-2];
+        int t_max=arr[n-3];
 
-                if(Math.abs(arr[j])>Math.abs(arr[k])) k--;
-                else j++;
-            }
-        }
+        int p1=min*s_min*max;
+        int p2=max*s_max*t_max;
 
-        return maxProduct;
+
+        return p1>p2 ? p1 : p2;
     }
 }

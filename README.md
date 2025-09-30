@@ -97,12 +97,15 @@ Hello,
 |  |
 | ------- |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 ## Binary Tree
 |  |
 | ------- |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 <!---LeetCode Topics End-->

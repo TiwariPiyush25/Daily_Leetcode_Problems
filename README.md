@@ -93,4 +93,16 @@ Hello,
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
+## Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 <!---LeetCode Topics End-->

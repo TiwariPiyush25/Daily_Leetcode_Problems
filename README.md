@@ -52,6 +52,7 @@ Hello,
 | [1236-n-th-tribonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -80,6 +81,7 @@ Hello,
 |  |
 | ------- |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
+| [1642-water-bottles](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |

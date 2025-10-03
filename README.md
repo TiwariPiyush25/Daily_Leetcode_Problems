@@ -9,6 +9,7 @@ Hello,
 | ------- |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0198-house-robber) |
+| [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
@@ -24,6 +25,7 @@ Hello,
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -31,6 +33,7 @@ Hello,
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -91,6 +94,7 @@ Hello,
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
@@ -157,5 +161,6 @@ Hello,
 ## Binary Search Tree
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->

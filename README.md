@@ -7,6 +7,7 @@ Hello,
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0198-house-robber) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -96,6 +97,7 @@ Hello,
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -177,4 +179,8 @@ Hello,
 | ------- |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->

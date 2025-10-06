@@ -194,6 +194,7 @@ Hello,
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
@@ -218,4 +219,8 @@ Hello,
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

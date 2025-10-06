@@ -194,6 +194,7 @@ Hello,
 ## Binary Search Tree
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0374-guess-number-higher-or-lower](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
@@ -224,5 +225,6 @@ Hello,
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->

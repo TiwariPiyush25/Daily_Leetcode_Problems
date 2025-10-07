@@ -18,6 +18,7 @@ Hello,
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1791-richest-customer-wealth](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
@@ -38,6 +39,7 @@ Hello,
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -50,6 +52,7 @@ Hello,
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
@@ -236,4 +239,8 @@ Hello,
 |  |
 | ------- |
 | [2573-remove-nodes-from-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->

@@ -47,6 +47,7 @@ Hello,
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -102,6 +103,7 @@ Hello,
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 ## Bucket Sort

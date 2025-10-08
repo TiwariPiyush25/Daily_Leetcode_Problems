@@ -6,7 +6,7 @@ class Solution {
             set.add(arr[i]);
         }
 
-        if(set.size()>=n/2) return n/2;
-        return set.size();
+        
+        return set.size()>=n/2 ? n/2 : set.size();
     }
 }

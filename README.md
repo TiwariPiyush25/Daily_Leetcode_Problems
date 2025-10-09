@@ -19,6 +19,7 @@ Hello,
 | [1031-add-to-array-form-of-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -152,6 +153,7 @@ Hello,
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -204,6 +206,7 @@ Hello,
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |

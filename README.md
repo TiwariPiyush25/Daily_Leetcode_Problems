@@ -38,6 +38,7 @@ Hello,
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3330-modify-the-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3330-modify-the-matrix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,6 +148,7 @@ Hello,
 | ------- |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1610-xor-operation-in-an-array) |
+| [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Matrix
 |  |
 | ------- |
@@ -272,4 +274,8 @@ Hello,
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
+## Brainteaser
+|  |
+| ------- |
+| [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->

@@ -25,6 +25,7 @@ Hello,
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -116,6 +117,7 @@ Hello,
 | [0657-robot-return-to-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0782-jewels-and-stones) |
 | [1260-day-of-the-year](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1260-day-of-the-year) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |

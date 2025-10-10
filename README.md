@@ -110,6 +110,7 @@ Hello,
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
+| [0657-robot-return-to-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0782-jewels-and-stones) |
 | [1260-day-of-the-year](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1260-day-of-the-year) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
@@ -131,6 +132,7 @@ Hello,
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1642-water-bottles](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |

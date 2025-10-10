@@ -43,6 +43,7 @@ Hello,
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0575-distribute-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -108,6 +109,7 @@ Hello,
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
+| [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0520-detect-capital](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
@@ -127,6 +129,7 @@ Hello,
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |

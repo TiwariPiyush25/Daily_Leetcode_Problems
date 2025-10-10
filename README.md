@@ -80,6 +80,7 @@ Hello,
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0507-perfect-number) |
@@ -205,6 +206,7 @@ Hello,
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -223,6 +225,7 @@ Hello,
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |

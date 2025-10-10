@@ -1,22 +1,22 @@
 class Solution {
-    public int paths(int sr,int sc,Integer er,Integer ec,int[][] dp){
-        if (sr>=er || sc>=ec) return 0;
-        if (sr==er-1 && sc==ec-1) return 1;
-
-        if (dp[sr][sc]!=-1) return dp[sr][sc];
-
-        int rightways=paths(sr,sc+1,er,ec,dp);
-        int downways=paths(sr+1,sc,er,ec,dp);
-
-        return dp[sr][sc]=rightways+downways;
-    }
     public int uniquePaths(int m, int n) {
-        int[][] dp=new int[m][n];
-        for (int i=0;i<m;i++){
-            for (int j=0;j<n;j++) {
-                dp[i][j]=-1;
+        int[][] dp=new int[2][n];
+        for (int j=0;j<n;j++){
+            dp[0][j]=1;
+            dp[1][j]=1;
+        }
+
+        for (int i=1;i<m;i++){
+            for (int j=1;j<n;j++){
+                dp[1][j] = dp[1][j-1] + dp[0][j];
+            }
+
+            // copy 1st row in 0th row
+            for (int j=0;j<n;j++){
+                dp[0][j]=dp[1][j];
             }
         }
-        return paths(0,0,m,n,dp);
+
+        return dp[1][n-1];
     }
 }

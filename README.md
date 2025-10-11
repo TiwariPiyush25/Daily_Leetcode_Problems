@@ -126,6 +126,7 @@ Hello,
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1954-replace-all-digits-with-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |

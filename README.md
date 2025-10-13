@@ -19,6 +19,7 @@ Hello,
 | [0575-distribute-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -52,6 +53,7 @@ Hello,
 | [0575-distribute-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0782-jewels-and-stones) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |

@@ -146,6 +146,7 @@ Hello,
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
+| [3811-reverse-degree-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Hello,
 | [2299-merge-nodes-in-between-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
+| [3811-reverse-degree-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |

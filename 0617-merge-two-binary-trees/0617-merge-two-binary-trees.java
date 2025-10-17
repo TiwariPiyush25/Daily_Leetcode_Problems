@@ -6,11 +6,9 @@ class Solution {
             if(root1==null) 
             {   
                 root1=root2;
-                return helper(root1,root2);
             }
             if(root2==null) {
                 root2=root1;
-                return helper(root1,root2);
             }
         }
         TreeNode root;

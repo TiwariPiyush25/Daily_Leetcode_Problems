@@ -114,6 +114,7 @@ Hello,
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2238-a-number-after-a-double-reversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |

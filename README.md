@@ -21,6 +21,7 @@ Hello,
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1031-add-to-array-form-of-integer) |
+| [1293-three-consecutive-odds](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |

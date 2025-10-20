@@ -22,14 +22,13 @@ class Node {
 */
 
 class Solution {
-    public List<List<Node>> lvlOrder(Node root){
-        List<List<Node>> ans=new ArrayList<>();
-
+    public Node connect(Node root) {
+        if(root==null) return root;
+        
         Queue<Node> Q=new LinkedList<>();
         Q.add(root);
         while(!Q.isEmpty()){
             int size=Q.size();
-            List<Node> lst=new ArrayList<>();
 
             for(int i=0;i<size;i++){
                 Node temp=Q.remove();
@@ -37,23 +36,10 @@ class Solution {
                 if(temp.left!=null) Q.add(temp.left);
                 if(temp.right!=null) Q.add(temp.right);
 
-                lst.add(temp);
-            }
-
-            ans.add(lst);
-        }
-
-        return ans;
-    }
-    public Node connect(Node root) {
-        if(root==null) return root;
-        List<List<Node>> ans = lvlOrder(root);
-
-        for(List<Node> lst:ans){
-            for(int i=0;i<lst.size()-1;i++){
-                lst.get(i).next=lst.get(i+1);
+                if(i<size-1) temp.next=Q.peek();
             }
         }
+
 
         return root;
     }

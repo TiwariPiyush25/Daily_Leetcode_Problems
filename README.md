@@ -127,6 +127,7 @@ Hello,
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Hello,
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Bucket Sort
@@ -185,6 +187,7 @@ Hello,
 | [2299-merge-nodes-in-between-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
@@ -227,6 +230,7 @@ Hello,
 | ------- |
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Tree
 |  |
 | ------- |
@@ -381,6 +385,7 @@ Hello,
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
 | ------- |

@@ -1,5 +1,4 @@
 class Solution {
-    public int counter;
     public int sum(TreeNode root){
         if(root==null) return 0;
 
@@ -10,20 +9,20 @@ class Solution {
 
         return 1 + size(root.left) + size(root.right);
     }
-    public void helper(TreeNode root){
+    public void helper(TreeNode root,int[] counter){
         if(root==null) return;
 
         int avg=sum(root)/size(root);
 
-        if(root.val==avg) counter++;
-        helper(root.left);
-        helper(root.right);
+        if(root.val==avg) counter[0]++;
+        helper(root.left,counter);
+        helper(root.right,counter);
     }
 
     public int averageOfSubtree(TreeNode root) {
-        counter=0;
-        helper(root);
+        int[] counter={0};
+        helper(root,counter);
 
-        return counter;
+        return counter[0];
     }
 }

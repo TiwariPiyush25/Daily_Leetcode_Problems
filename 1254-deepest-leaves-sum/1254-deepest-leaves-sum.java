@@ -1,45 +1,22 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
 class Solution {
+    public int height(TreeNode root){
+        if(root==null) return 0;
+
+        return 1 + Math.max(height(root.left),height(root.right));
+    }
+    public void CalculateSum(TreeNode root,int[] arr,int n){
+        if(root==null) return;
+
+        if(n==1) arr[0]+=root.val;
+        CalculateSum(root.left,arr,n-1);
+        CalculateSum(root.right,arr,n-1);
+    }
     public int deepestLeavesSum(TreeNode root) {
-        Queue<TreeNode> q=new LinkedList<>();
+        int h=height(root);
 
-        if(root!=null) q.add(root);
-        List<List<Integer>> ans=new ArrayList<>();
-        while(!q.isEmpty()){
-            int size=q.size();
-            List<Integer> lst=new ArrayList<>();
-            for(int i=0;i<size;i++){
-                TreeNode temp=q.remove();
+        int[] arr={0};
+        CalculateSum(root,arr,h);
 
-                lst.add(temp.val);
-                if(temp.left!=null) q.add(temp.left);
-                if(temp.right!=null) q.add(temp.right);
-            }
-
-            ans.add(0,lst);
-        }
-
-        int sum=0;
-        
-        List<Integer> lst=ans.get(0);
-        for(int ele:lst){
-            sum+=ele;
-        }
-
-        return sum;
+        return arr[0];
     }
 }

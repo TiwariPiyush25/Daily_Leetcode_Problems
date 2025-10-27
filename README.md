@@ -144,6 +144,7 @@ Hello,
 | [0583-delete-operation-for-two-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0657-robot-return-to-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0782-jewels-and-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0782-jewels-and-stones) |
+| [0812-rotate-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0812-rotate-string) |
 | [0953-reverse-only-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0953-reverse-only-letters) |
 | [1205-defanging-an-ip-address](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1205-defanging-an-ip-address) |
 | [1250-longest-common-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1250-longest-common-subsequence) |
@@ -426,4 +427,8 @@ Hello,
 | ------- |
 | [0567-permutation-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->

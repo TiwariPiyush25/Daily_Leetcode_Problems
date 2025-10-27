@@ -1,13 +1,14 @@
 class Solution {
     public boolean rotateString(String s, String goal) {
+        StringBuilder sb=new StringBuilder(s);
         int n=s.length();
         while(n-->0){
-            if(s.equals(goal)) return true;
-            char ch=s.charAt(s.length()-1);
-            String rem = s.substring(0,s.length()-1);
+            if(sb.toString().equals(goal)) return true;
 
-            s = ch+rem;
-            System.out.println(s);
+            char ch=sb.charAt(0);
+            sb.delete(0,1);
+
+            sb.append(ch);
         }
 
         return false;

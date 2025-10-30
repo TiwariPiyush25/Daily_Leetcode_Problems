@@ -102,6 +102,7 @@ Hello,
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
@@ -331,6 +332,7 @@ Hello,
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
@@ -371,6 +373,7 @@ Hello,
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0147-insertion-sort-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0147-insertion-sort-list) |

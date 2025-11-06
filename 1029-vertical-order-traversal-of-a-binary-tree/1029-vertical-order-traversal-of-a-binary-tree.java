@@ -41,7 +41,6 @@ class Solution {
         while(!p.isEmpty()){
             triplet t = p.remove();
             int val = t.val;
-            int lvl = t.lvl;
             int idx = t.ver + Math.abs(smallest);
            
             ans.get(idx).add(val);

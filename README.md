@@ -56,6 +56,7 @@ Hello,
 ## Hash Table
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
@@ -113,6 +114,7 @@ Hello,
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0202-happy-number) |
 | [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
@@ -215,6 +217,7 @@ Hello,
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |

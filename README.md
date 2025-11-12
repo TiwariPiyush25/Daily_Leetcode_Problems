@@ -113,6 +113,7 @@ Hello,
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |

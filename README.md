@@ -16,6 +16,7 @@ Hello,
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0485-max-consecutive-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
 | [0575-distribute-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |

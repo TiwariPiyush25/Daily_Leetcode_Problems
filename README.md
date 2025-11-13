@@ -7,6 +7,7 @@ Hello,
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
@@ -62,6 +63,7 @@ Hello,
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -92,6 +94,7 @@ Hello,
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0147-insertion-sort-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -156,6 +159,7 @@ Hello,
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |

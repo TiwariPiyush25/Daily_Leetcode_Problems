@@ -12,7 +12,7 @@ class Solution {
             else swap(i,arr[i]-1,arr);
         }
 
-        System.out.println(Arrays.toString(arr));
+        
         int[] ans=new int[2];
         for(i=0;i<n;i++){
             if(arr[i]!=i+1) {

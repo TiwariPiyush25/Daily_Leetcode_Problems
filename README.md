@@ -29,6 +29,7 @@ Hello,
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1031-add-to-array-form-of-integer) |
+| [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
@@ -413,6 +414,7 @@ Hello,
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
+| [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -482,6 +484,7 @@ Hello,
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## String Matching
 |  |
@@ -491,6 +494,7 @@ Hello,
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [2571-find-the-pivot-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2571-find-the-pivot-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->

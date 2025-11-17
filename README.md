@@ -62,6 +62,7 @@ Hello,
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3194-find-words-containing-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3330-modify-the-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3330-modify-the-matrix) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -208,6 +209,7 @@ Hello,
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
+| [3194-find-words-containing-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3379-score-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3811-reverse-degree-of-a-string) |

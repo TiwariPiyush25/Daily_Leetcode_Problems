@@ -41,6 +41,7 @@ Hello,
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1552-build-an-array-with-stack-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1580-shuffle-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -228,6 +229,7 @@ Hello,
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
+| [1552-build-an-array-with-stack-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -447,6 +449,7 @@ Hello,
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
+| [1552-build-an-array-with-stack-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Greedy

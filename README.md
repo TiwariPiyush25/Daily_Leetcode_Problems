@@ -168,6 +168,7 @@ Hello,
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
@@ -248,6 +249,7 @@ Hello,
 | [2299-merge-nodes-in-between-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3811-reverse-degree-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3811-reverse-degree-of-a-string) |
 | [3893-generate-tag-for-video-caption](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3893-generate-tag-for-video-caption) |
@@ -274,6 +276,7 @@ Hello,
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1610-xor-operation-in-an-array) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Matrix
 |  |
@@ -400,6 +403,7 @@ Hello,
 | [0025-reverse-nodes-in-k-group](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |
 | ------- |

@@ -65,6 +65,7 @@ Hello,
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |

@@ -71,6 +71,7 @@ Hello,
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-find-words-containing-character) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3330-modify-the-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3330-modify-the-matrix) |
@@ -132,6 +133,7 @@ Hello,
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Heap (Priority Queue)
 |  |
@@ -291,6 +293,7 @@ Hello,
 | [0953-reverse-only-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0953-reverse-only-letters) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
 | ------- |

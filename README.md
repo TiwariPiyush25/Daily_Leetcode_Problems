@@ -73,6 +73,7 @@ Hello,
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-find-words-containing-character) |
@@ -285,6 +286,7 @@ Hello,
 | [2288-count-operations-to-obtain-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
+| [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -580,6 +582,7 @@ Hello,
 | [2571-find-the-pivot-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2571-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
+| [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
 ## Quickselect
 |  |
 | ------- |

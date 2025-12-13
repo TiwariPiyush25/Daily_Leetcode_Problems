@@ -58,6 +58,7 @@ Hello,
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2048-build-array-from-permutation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -112,6 +113,7 @@ Hello,
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -272,6 +274,7 @@ Hello,
 | [1823-determine-if-string-halves-are-alike](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation

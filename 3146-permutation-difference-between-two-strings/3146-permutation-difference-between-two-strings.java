@@ -8,7 +8,6 @@ class Solution {
             map2.put(t.charAt(i),i);
         }
 
-        System.out.println(map1);
         int sum = 0;
         for(var key : map1.keySet()){
             sum += Math.abs(map1.get(key)-map2.get(key));

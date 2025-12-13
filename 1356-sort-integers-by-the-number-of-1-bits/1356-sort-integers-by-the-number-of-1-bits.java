@@ -14,20 +14,16 @@ class pair implements Comparable<pair>{
 }
 class Solution {
     public int count1s(int x){
-        String binary = "";
         int count = 0;
         while(x>1){
             int ld = x % 2;
             if(ld==1) count++;
-            binary = ld + binary;
             x/=2;
         }
 
         if(x==1) {
-            binary = x + binary;
             count++;
         }
-        System.out.println(binary);
         return count;
     }
     public int[] sortByBits(int[] arr) {

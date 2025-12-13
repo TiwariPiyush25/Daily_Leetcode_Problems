@@ -33,6 +33,6 @@ class Solution {
             if(heap.size()>k) heap.remove();
         }
 
-        return heap.remove().val;
+        return heap.peek().val;
     }
 }

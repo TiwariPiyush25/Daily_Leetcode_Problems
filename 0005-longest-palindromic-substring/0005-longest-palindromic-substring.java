@@ -16,7 +16,7 @@ class Solution {
                     if (s.charAt(i)==s.charAt(j) && dp[i+1][j-1]==1) dp[i][j] = 1;
                 }
 
-                if(j-i+1 > maxlen && dp[i][j]==1){
+                if(dp[i][j]==1 && j-i+1 > maxlen){
                     maxlen = j-i+1;
                     st = i;
                     end = j;

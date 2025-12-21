@@ -369,6 +369,7 @@ Hello,
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -395,6 +396,7 @@ Hello,
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -419,6 +421,7 @@ Hello,
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -447,6 +450,7 @@ Hello,
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0072-edit-distance) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |

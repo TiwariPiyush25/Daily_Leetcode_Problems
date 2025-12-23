@@ -1,15 +1,13 @@
 class Solution {
     public int singleNumber(int[] nums) {
         for (int i = 0;i<nums.length;i++){
-            for (int j = i+1;j<nums.length;j++){
-                if (nums[i]!=Integer.MIN_VALUE && nums[i] == nums[j]){
-                    nums[i] = Integer.MIN_VALUE;
-                    nums[j] = Integer.MIN_VALUE;
-                }
+            boolean flag = true;
+            for (int j = 0;j<nums.length;j++){
+                if (i!=j && nums[i] == nums[j]) flag=false;
             }
-        }
 
-        for(int ele:nums) if(ele!=Integer.MIN_VALUE) return ele;
+            if (flag) return nums[i];
+        }
 
         return nums[0];
     }

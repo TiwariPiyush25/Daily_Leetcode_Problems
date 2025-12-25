@@ -180,6 +180,7 @@ Hello,
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
@@ -337,6 +338,7 @@ Hello,
 | ------- |
 | [0136-single-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -491,6 +493,7 @@ Hello,
 | ------- |
 | [0002-add-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0231-power-of-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |

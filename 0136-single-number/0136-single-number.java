@@ -1,14 +1,13 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        for (int i = 0;i<nums.length;i++){
-            boolean flag = true;
-            for (int j = 0;j<nums.length;j++){
-                if (i!=j && nums[i] == nums[j]) flag=false;
-            }
+        Arrays.sort(nums);
 
-            if (flag) return nums[i];
+        int i=0;
+        while(i<nums.length-1){
+            if (nums[i]!=nums[i+1]) return nums[i];
+            i+=2;
         }
 
-        return nums[0];
+        return nums[nums.length-1];
     }
 }

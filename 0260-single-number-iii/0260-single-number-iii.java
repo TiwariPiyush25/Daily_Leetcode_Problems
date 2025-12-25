@@ -1,19 +1,20 @@
 class Solution {
     public int[] singleNumber(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int x = 0;
+        for (int ele:nums) x ^=ele;
+
+        int y = x & (x-1);
+        int mask = x ^ y;
+
+        int b1 = 0; // for != 0
+        int b2 = 0; // for == 0
 
         for (int ele:nums){
-            map.put(ele,map.getOrDefault(ele,0)+1);
+            if ((ele & mask) == 0) b1 ^= ele;
+            else b2 ^= ele;
         }
 
-        int[] ans = new int[2];
-        int i = 0;
-        for (int key:map.keySet()){
-            if (map.get(key)==1) {
-                ans[i++] = key;
-            }
-        }
-
+        int[] ans = {b1,b2};
         return ans;
     }
 }

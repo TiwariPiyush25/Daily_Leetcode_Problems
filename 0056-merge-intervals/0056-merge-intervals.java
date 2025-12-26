@@ -16,14 +16,6 @@ class Solution {
             }
         }
 
-        int[][] ans = new int[temp_ans.size()][2];
-        int i = 0;
-        for (int[] interval: temp_ans){
-            ans[i][0] = interval[0];
-            ans[i][1] = interval[1];
-            i++;
-        }
-
-        return ans;
+        return temp_ans.toArray(new int[temp_ans.size()][]);
     }
 }

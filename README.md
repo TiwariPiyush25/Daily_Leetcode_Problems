@@ -8,6 +8,7 @@ Hello,
 | ------- |
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0078-subsets) |
@@ -143,6 +144,7 @@ Hello,
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0147-insertion-sort-list) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |

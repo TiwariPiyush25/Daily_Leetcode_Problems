@@ -61,6 +61,7 @@ Hello,
 | [1580-shuffle-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
@@ -153,6 +154,7 @@ Hello,
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [1710-maximum-units-on-a-truck](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -585,6 +587,7 @@ Hello,
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |

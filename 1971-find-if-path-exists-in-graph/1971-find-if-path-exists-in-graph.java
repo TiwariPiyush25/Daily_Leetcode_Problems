@@ -31,7 +31,6 @@ class Solution {
        vis[start] = true;
        bfs(start,adj,vis);
 
-       if(vis[end]) return true;
-       return false;
+       return vis[end]; // path exists
     }
 }

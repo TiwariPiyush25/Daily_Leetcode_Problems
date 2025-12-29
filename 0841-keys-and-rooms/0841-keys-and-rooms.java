@@ -9,8 +9,8 @@ class Solution {
 
             for(int ele:adj.get(temp)){
                 if(!vis[ele]){
-                    Q.add(ele);
                     vis[ele] = true;
+                    Q.add(ele);
                 }
             }
         }

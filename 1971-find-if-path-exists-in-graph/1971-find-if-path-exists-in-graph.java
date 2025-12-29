@@ -1,5 +1,5 @@
 class Solution {
-    public void bfs(int i,List<List<Integer>> adj,boolean[] vis){
+    public void bfs(int i,List<List<Integer>> adj,boolean[] vis,int end){
         Queue<Integer> Q = new LinkedList<>();
         Q.add(i);
 
@@ -10,6 +10,8 @@ class Solution {
                 if(!vis[ele]){
                     vis[ele] = true;
                     Q.add(ele);
+
+                    if(ele == end) return;
                 }
             }
         }
@@ -29,7 +31,7 @@ class Solution {
        }
 
        vis[start] = true;
-       bfs(start,adj,vis);
+       bfs(start,adj,vis,end);
 
        return vis[end]; // path exists
     }

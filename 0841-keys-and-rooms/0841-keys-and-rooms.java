@@ -1,17 +1,11 @@
 class Solution {
-    public void bfs(int i,List<List<Integer>> adj,boolean[] vis){
+    public void dfs(int i,List<List<Integer>> adj,boolean[] vis){
         int size = adj.get(i).size();
-        Queue<Integer> Q = new LinkedList<>();
-        Q.add(i);
+        vis[i] = true;
 
-        while(!Q.isEmpty()){
-            int temp = Q.remove();
-
-            for(int ele:adj.get(temp)){
-                if(!vis[ele]){
-                    vis[ele] = true;
-                    Q.add(ele);
-                }
+        for(int ele:adj.get(i)){
+            if(!vis[ele]){
+                dfs(ele,adj,vis);
             }
         }
     }
@@ -20,7 +14,7 @@ class Solution {
         boolean[] vis = new boolean[n];
 
         vis[0] = true;
-        bfs(0,adj,vis);
+        dfs(0,adj,vis);
         for(boolean ele:vis) if(!ele) return ele;
         return true;
     }

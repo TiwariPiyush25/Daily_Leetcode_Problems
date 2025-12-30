@@ -17,14 +17,6 @@ class Solution {
             int r = p.row;
             int c = p.col;
 
-            if(r>0 && !vis[r-1][c] &&  grid[r-1][c] == '1'){
-                vis[r-1][c] = true;
-                q.add(new pair(r-1,c));
-            }
-            if(c>0 && !vis[r][c-1] &&  grid[r][c-1] == '1'){
-                vis[r][c-1] = true;
-                q.add(new pair(r,c-1));
-            }
             if(r<grid.length-1 && !vis[r+1][c] &&  grid[r+1][c] == '1'){
                 vis[r+1][c] = true;
                 q.add(new pair(r+1,c));

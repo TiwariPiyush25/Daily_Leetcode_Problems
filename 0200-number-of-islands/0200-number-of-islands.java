@@ -8,24 +8,13 @@ class Solution {
             this.col = c;
         }
     }
-    public void bfs(int i,int j,char[][] grid,boolean[][] vis){
-        Queue<pair> q = new LinkedList<>();
-        q.add(new pair(i,j));
+    public void dfs(int i,int j,char[][] grid,boolean[][] vis){
+        vis[i][j] = true;
 
-        while(!q.isEmpty()){
-            pair p = q.remove();
-            int r = p.row;
-            int c = p.col;
-
-            if(r<grid.length-1 && !vis[r+1][c] &&  grid[r+1][c] == '1'){
-                vis[r+1][c] = true;
-                q.add(new pair(r+1,c));
-            }
-            if(c<grid[0].length-1 && !vis[r][c+1] && grid[r][c+1] == '1'){
-                vis[r][c+1] = true;
-                q.add(new pair(r,c+1));
-            }
-        }
+        if(i>0 && !vis[i-1][j] &&  grid[i-1][j] == '1') dfs(i-1,j,grid,vis);
+        if(i<grid.length-1 && !vis[i+1][j] &&  grid[i+1][j] == '1') dfs(i+1,j,grid,vis);
+        if(j>0 && !vis[i][j-1] &&  grid[i][j-1] == '1') dfs(i,j-1,grid,vis);
+        if(j<grid[0].length-1 && !vis[i][j+1] &&  grid[i][j+1] == '1') dfs(i,j+1,grid,vis);
     }
     public int numIslands(char[][] grid) {
         int m = grid.length;
@@ -36,7 +25,7 @@ class Solution {
             for(int j = 0;j<n;j++){
                 if(!vis[i][j] && grid[i][j] == '1'){
                     vis[i][j] = true;
-                    bfs(i,j,grid,vis);
+                    dfs(i,j,grid,vis);
                     count++;
                 }
             }

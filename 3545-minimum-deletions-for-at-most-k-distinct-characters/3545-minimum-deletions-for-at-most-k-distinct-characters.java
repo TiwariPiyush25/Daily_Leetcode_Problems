@@ -12,7 +12,6 @@ class Solution {
         }
 
         Arrays.sort(arr);
-        System.out.println(Arrays.toString(arr));
         int total = 0;
         for(i=0;i<arr.length - k;i++){ 
             total += arr[i];

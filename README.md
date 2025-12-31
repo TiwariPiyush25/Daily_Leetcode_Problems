@@ -90,6 +90,7 @@ Hello,
 | [2211-k-radius-subarray-averages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2211-k-radius-subarray-averages) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2574-left-and-right-sum-differences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -180,6 +181,7 @@ Hello,
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -635,6 +637,7 @@ Hello,
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Interactive
 |  |

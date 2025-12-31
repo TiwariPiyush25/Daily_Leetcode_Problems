@@ -65,6 +65,7 @@ Hello,
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1552-build-an-array-with-stack-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1580-shuffle-the-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -168,6 +169,7 @@ Hello,
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -219,6 +221,7 @@ Hello,
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1610-xor-operation-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1641-count-sorted-vowel-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1642-water-bottles) |
@@ -619,6 +622,7 @@ Hello,
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -702,4 +706,8 @@ Hello,
 | [0547-number-of-provinces](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->

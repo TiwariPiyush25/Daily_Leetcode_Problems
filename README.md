@@ -101,6 +101,7 @@ Hello,
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2706-buy-two-chocolates](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2706-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
@@ -197,6 +198,7 @@ Hello,
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2578-split-with-minimum-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2578-split-with-minimum-sum) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2706-buy-two-chocolates](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2706-buy-two-chocolates) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -672,6 +674,7 @@ Hello,
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2578-split-with-minimum-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2578-split-with-minimum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2706-buy-two-chocolates](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2706-buy-two-chocolates) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |

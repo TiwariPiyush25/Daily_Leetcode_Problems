@@ -227,6 +227,7 @@ Hello,
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0507-perfect-number) |
+| [0556-next-greater-element-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0728-self-dividing-numbers) |
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
@@ -278,6 +279,7 @@ Hello,
 | [0520-detect-capital](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
+| [0556-next-greater-element-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0647-palindromic-substrings) |
@@ -378,6 +380,7 @@ Hello,
 | [0455-assign-cookies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0541-reverse-string-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0541-reverse-string-ii) |
+| [0556-next-greater-element-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |

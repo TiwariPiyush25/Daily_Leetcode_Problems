@@ -1,25 +1,21 @@
 class Solution {
-    List<List<Integer>> ans;
-    public void helper(int[] arr, List<Integer> temp,int i){
-        if (i==arr.length){
-            ArrayList<Integer> copy=new ArrayList<>();
-            for (int j=0;j<temp.size();j++){
-                copy.add(temp.get(j));
-            }
-            Collections.sort(copy);
-            if(!ans.contains(copy)) ans.add(copy);
-            return;
-        }
-
-        helper(arr,temp,i+1);
-        temp.add(arr[i]);
-        helper(arr,temp,i+1);
-        temp.removeLast();
-    }
     public List<List<Integer>> subsetsWithDup(int[] nums) {
-        ans=new ArrayList<>();
-        List<Integer> temp=new ArrayList<>();
-        helper(nums,temp,0);
+        List<List<Integer>> ans = new ArrayList<>();
+        int n = nums.length;
+
+        int total = 1 << n;
+
+        for (int num=0;num<total;num++){
+            List<Integer> res = new ArrayList<>();
+            for (int bitidx=0;bitidx<n;bitidx++){
+                int mask = 1 << bitidx;
+
+                if ((num & mask) !=0) res.add(nums[bitidx]);
+            }
+            Collections.sort(res);
+
+            if(!ans.contains(res)) ans.add(res);
+        }
 
         return ans;
     }

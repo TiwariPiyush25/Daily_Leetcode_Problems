@@ -2,8 +2,8 @@ class Solution {
     public boolean canFinish(int n, int[][] pre) {
         List<List<Integer>> adj = new ArrayList<>();
         int[] indegree = new int[n];
-        boolean[] vis = new boolean[n];
 
+        // create adj List
         for(int i=0;i<n;i++) adj.add(new ArrayList<>());
         for(int[] arr:pre){
             int dest = arr[0];
@@ -18,10 +18,7 @@ class Solution {
         Queue<Integer> q = new LinkedList<>();
 
         for(int i=0;i<n;i++){
-            if(indegree[i]==0) {
-                q.add(i);
-                vis[i] = true;
-            }
+            if(indegree[i]==0) q.add(i);
         }
 
         while(!q.isEmpty()){
@@ -33,7 +30,6 @@ class Solution {
 
                 if(indegree[ele]==0){
                     q.add(ele);
-                    vis[ele] = true;
                 }
             }
         }

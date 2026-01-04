@@ -7,6 +7,7 @@ Hello,
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0047-permutations-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0057-insert-interval) |
@@ -165,6 +166,7 @@ Hello,
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0147-insertion-sort-list) |
@@ -723,6 +725,7 @@ Hello,
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |

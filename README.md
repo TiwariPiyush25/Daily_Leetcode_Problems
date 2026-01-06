@@ -85,6 +85,7 @@ Hello,
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -257,6 +258,7 @@ Hello,
 | [1641-count-sorted-vowel-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -419,6 +421,7 @@ Hello,
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1610-xor-operation-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -445,6 +448,7 @@ Hello,
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Number Theory
@@ -720,6 +724,7 @@ Hello,
 | ------- |
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [1641-count-sorted-vowel-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Brainteaser
 |  |
@@ -732,6 +737,7 @@ Hello,
 | [0078-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |

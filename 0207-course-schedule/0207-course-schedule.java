@@ -1,7 +1,22 @@
 class Solution {
+    public static boolean flag;
+    public void dfs(int i,List<List<Integer>> adj,boolean[] vis,boolean[] path){
+        vis[i] = true;
+        path[i] = true;
+
+        for(int ele:adj.get(i)){
+            if(path[ele]==true){
+                flag = false;
+                return;
+            }
+            if(!vis[ele]) dfs(ele,adj,vis,path);
+        }
+
+        path[i] = false;
+    }
     public boolean canFinish(int n, int[][] pre) {
+        flag = true; // No cycle...
         List<List<Integer>> adj = new ArrayList<>();
-        int[] indegree = new int[n];
 
         // create adj List
         for(int i=0;i<n;i++) adj.add(new ArrayList<>());
@@ -9,31 +24,15 @@ class Solution {
             int dest = arr[0];
             int src = arr[1];
             // edge from src --> dest
-            indegree[dest]++;
             adj.get(src).add(dest);
         }
+
+        boolean[] vis = new boolean[n];
+        boolean[] path = new boolean[n];
         
-        // kahn's algorithm
-        List<Integer> ans = new ArrayList<>();
-        Queue<Integer> q = new LinkedList<>();
-
-        for(int i=0;i<n;i++){
-            if(indegree[i]==0) q.add(i);
+        for(int i=0;i<n;i++) {
+            if(!vis[i]) dfs(i,adj,vis,path);
         }
-
-        while(!q.isEmpty()){
-            int temp = q.remove();
-            ans.add(temp);
-
-            for(int ele:adj.get(temp)){
-                indegree[ele]--;
-
-                if(indegree[ele]==0){
-                    q.add(ele);
-                }
-            }
-        }
-
-        return ans.size() == n;
+        return flag;
     }
 }

@@ -218,6 +218,7 @@ Hello,
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -508,6 +509,7 @@ Hello,
 | [0623-add-one-row-to-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0841-keys-and-rooms) |
@@ -618,6 +620,7 @@ Hello,
 | [0617-merge-two-binary-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0841-keys-and-rooms) |
@@ -793,6 +796,7 @@ Hello,
 | [0207-course-schedule](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
+| [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0841-keys-and-rooms) |
@@ -809,4 +813,8 @@ Hello,
 | [0207-course-schedule](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

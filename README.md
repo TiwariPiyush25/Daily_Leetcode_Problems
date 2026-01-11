@@ -79,6 +79,7 @@ Hello,
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1572-matrix-diagonal-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1580-shuffle-the-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
@@ -825,6 +826,7 @@ Hello,
 | [0200-number-of-islands](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
@@ -839,6 +841,7 @@ Hello,
 | [0802-find-eventual-safe-states](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
 | [0841-keys-and-rooms](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 | [1514-path-with-maximum-probability](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1514-path-with-maximum-probability) |
+| [1584-min-cost-to-connect-all-points](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Game Theory
@@ -858,4 +861,8 @@ Hello,
 | [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1514-path-with-maximum-probability](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1514-path-with-maximum-probability) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->

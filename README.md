@@ -442,6 +442,7 @@ Hello,
 | [0231-power-of-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1310-xor-queries-of-a-subarray) |
@@ -599,6 +600,7 @@ Hello,
 | [0322-coin-change](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0322-coin-change) |
 | [0354-russian-doll-envelopes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
@@ -631,6 +633,7 @@ Hello,
 ## Memoization
 |  |
 | ------- |
+| [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
 ## Breadth-First Search
@@ -718,6 +721,7 @@ Hello,
 | ------- |
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0324-wiggle-sort-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0324-wiggle-sort-ii) |
+| [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |

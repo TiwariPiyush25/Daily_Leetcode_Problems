@@ -15,7 +15,7 @@ class Solution {
             }
             else {
                 parent[a] = b;
-                size[b] += size[b]; 
+                size[b] += size[a]; 
             }
         }
     }

@@ -502,6 +502,7 @@ Hello,
 | [0513-find-bottom-left-tree-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -533,6 +534,7 @@ Hello,
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -712,6 +714,7 @@ Hello,
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |

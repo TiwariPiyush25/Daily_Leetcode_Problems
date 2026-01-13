@@ -28,6 +28,7 @@ class Solution {
     }
     public List<Integer> preorder(Node root) {
         List<Integer> lst=new ArrayList<>();
+        if(root!=null) lst.add(root.val);
 
         dfs(root,lst);
         return lst;

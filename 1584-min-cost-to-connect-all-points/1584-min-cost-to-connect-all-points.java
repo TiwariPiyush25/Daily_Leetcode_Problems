@@ -47,7 +47,7 @@ class Solution {
             size[i] = 1;
         }
 
-        PriorityQueue<Edge> pq = new PriorityQueue<>();
+        ArrayList<Edge> list = new ArrayList<>();
         for(int u=0;u<n;u++){
             for(int v=u+1;v<n;v++){
                 int x1 = points[u][0] , y1 = points[u][1];
@@ -55,12 +55,15 @@ class Solution {
 
                 int dist = Math.abs(x1-x2) + Math.abs(y1-y2);
 
-                pq.add(new Edge(u,v,dist));
+                list.add(new Edge(u,v,dist));
             }
         }
+
+        Collections.sort(list);
+        
         int minCost = 0;
-        while(!pq.isEmpty()){
-            Edge top = pq.remove();
+        for(int i=0;i<list.size();i++){
+            Edge top = list.get(i);
             int u = top.u,v = top.v,dist = top.dist;
 
             if(leader(u)!=leader(v)){

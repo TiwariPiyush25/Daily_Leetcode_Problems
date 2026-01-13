@@ -37,9 +37,10 @@ class Solution {
 
         for(int i =0;i<graph.length;i++){
             for(int j=0;j<graph[i].length;j++){
-                if(graph[i][j] >  i){
-                    if(leader(i) == leader(graph[i][j]) && parity[i] == parity[graph[i][j]]) return false;
-                    else union(i,graph[i][j]);
+                int u = i, v = graph[i][j];
+                if(v >  u){
+                    if(leader(u) == leader(v) && parity[u] == parity[v]) return false;
+                    else union(u,v);
                 }
             }
         }

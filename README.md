@@ -34,6 +34,7 @@ Hello,
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0413-arithmetic-slices](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -609,6 +610,7 @@ Hello,
 | [0354-russian-doll-envelopes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
+| [0413-arithmetic-slices](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0413-arithmetic-slices) |
 | [0416-partition-equal-subset-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
@@ -812,6 +814,7 @@ Hello,
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |

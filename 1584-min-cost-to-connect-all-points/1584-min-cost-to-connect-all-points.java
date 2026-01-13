@@ -1,16 +1,16 @@
 class Solution {
-    public class triplet implements Comparable<triplet>{
+    public class Edge implements Comparable<Edge>{
         int u;
         int v;
         int dist;
 
-        triplet(int u,int v,int d){
+        Edge(int u,int v,int d){
             this.u = u;
             this.v = v;
             this.dist = d;
         }
 
-        public int compareTo(triplet t){
+        public int compareTo(Edge t){
             if(this.dist == t.dist) return this.u - t.u;
             return this.dist - t.dist;
         }
@@ -47,7 +47,7 @@ class Solution {
             size[i] = 1;
         }
 
-        PriorityQueue<triplet> pq = new PriorityQueue<>();
+        PriorityQueue<Edge> pq = new PriorityQueue<>();
         for(int u=0;u<n;u++){
             for(int v=u+1;v<n;v++){
                 int x1 = points[u][0] , y1 = points[u][1];
@@ -55,12 +55,12 @@ class Solution {
 
                 int dist = Math.abs(x1-x2) + Math.abs(y1-y2);
 
-                pq.add(new triplet(u,v,dist));
+                pq.add(new Edge(u,v,dist));
             }
         }
         int minCost = 0;
         while(!pq.isEmpty()){
-            triplet top = pq.remove();
+            Edge top = pq.remove();
             int u = top.u,v = top.v,dist = top.dist;
 
             if(leader(u)!=leader(v)){

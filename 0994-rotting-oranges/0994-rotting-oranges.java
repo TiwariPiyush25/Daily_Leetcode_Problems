@@ -34,6 +34,7 @@ class Solution {
         int[] col = {0,-1,0,1};
 
         int maxTime = 0;
+        int rottoncnt = 0;
         while(!q.isEmpty()){
             Triplet top = q.remove();
             int r = top.row,c = top.col,t = top.time;
@@ -46,12 +47,12 @@ class Solution {
                 if(newRow>=0 && newRow<m && newCol>=0 && newCol<n && grid[newRow][newCol]==1 && vis[newRow][newCol] != 2){
                     vis[newRow][newCol] = 2;
                     q.add(new Triplet(newRow,newCol,t+1));
-                    freshcnt--;
+                    rottoncnt++;
                 }
             }
         }
 
-        if(freshcnt > 0) return -1; 
+        if(freshcnt != rottoncnt) return -1; // if any orange remain fresh(you don't rotton it)
         return maxTime;
     }
 }

@@ -25,6 +25,7 @@ Hello,
 | [0200-number-of-islands](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0213-house-robber-ii) |
+| [0217-contains-duplicate](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
@@ -147,6 +148,7 @@ Hello,
 | ------- |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
@@ -194,6 +196,7 @@ Hello,
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0147-insertion-sort-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0147-insertion-sort-list) |
+| [0217-contains-duplicate](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0324-wiggle-sort-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0354-russian-doll-envelopes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |

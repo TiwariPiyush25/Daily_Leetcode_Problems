@@ -43,6 +43,7 @@ Hello,
 | [0455-assign-cookies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
+| [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -475,6 +476,7 @@ Hello,
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
@@ -630,6 +632,7 @@ Hello,
 | [0435-non-overlapping-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
@@ -676,6 +679,7 @@ Hello,
 | [0429-n-ary-tree-level-order-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0617-merge-two-binary-trees) |

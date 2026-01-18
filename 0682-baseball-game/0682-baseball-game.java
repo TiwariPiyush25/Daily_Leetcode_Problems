@@ -5,7 +5,6 @@ class Solution {
         for(String s:operations){
             if(!s.equals("+") && !s.equals("C") && !s.equals("D")){
                 st.push(s);
-                System.out.println(st);
             }
             else if(s.equals("+")){
                 int v1 = Integer.parseInt(st.peek());
@@ -19,7 +18,6 @@ class Solution {
             }
             else if(s.equals("C")){
                 st.pop();
-                System.out.println(st);
             }
             else {
                 int v = Integer.parseInt(st.peek());
@@ -27,7 +25,6 @@ class Solution {
 
                 String res = "" + v;
                 st.push(res);
-                System.out.println(st);
             }
         }
 

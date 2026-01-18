@@ -42,6 +42,7 @@ class Solution {
             String s = q.remove();
             int step = map.get(s);
 
+            if(s.equals(target)) break;
             for(int i=0;i<s.length();i++){
                 for(char ch='a';ch<='z';ch++){
                     char[] arr = s.toCharArray();

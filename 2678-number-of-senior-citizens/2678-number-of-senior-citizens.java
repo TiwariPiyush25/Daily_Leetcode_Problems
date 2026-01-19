@@ -4,10 +4,7 @@ class Solution {
 
         int count = 0;
         for(String s:details){
-            sb.append(s.charAt(11));
-            sb.append(s.charAt(12));
-
-            if(Integer.valueOf(sb.toString()) > 60) count++;
+            if(Integer.parseInt(s.substring(11,13)) > 60) count++;
             sb.setLength(0);
         }
 

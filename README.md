@@ -131,6 +131,7 @@ Hello,
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2678-number-of-senior-citizens](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2706-buy-two-chocolates) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
@@ -377,6 +378,7 @@ Hello,
 | [2390-removing-stars-from-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2391-strong-password-checker-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2391-strong-password-checker-ii) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2678-number-of-senior-citizens](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |

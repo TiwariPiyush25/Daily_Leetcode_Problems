@@ -131,6 +131,7 @@ Hello,
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -275,6 +276,7 @@ Hello,
 | [2233-maximum-product-after-k-increments](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2233-maximum-product-after-k-increments) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
@@ -447,6 +449,7 @@ Hello,
 | [2299-merge-nodes-in-between-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
 | [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |

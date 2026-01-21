@@ -146,6 +146,7 @@ Hello,
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -277,6 +278,7 @@ Hello,
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 ## Math
 |  |
@@ -452,6 +454,7 @@ Hello,
 | [2558-take-gifts-from-the-richest-pile](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
 | [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |

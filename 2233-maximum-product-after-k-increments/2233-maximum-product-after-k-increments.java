@@ -12,7 +12,6 @@ class Solution {
             minheap.add(min);
         }
 
-        System.out.println(minheap);
         long product = 1;
         while(!minheap.isEmpty()){
             product = (product * minheap.remove()) % 1000000007;

@@ -59,6 +59,7 @@ Hello,
 | [0735-asteroid-collision](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
@@ -230,6 +231,7 @@ Hello,
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
@@ -267,6 +269,7 @@ Hello,
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1514-path-with-maximum-probability](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1514-path-with-maximum-probability) |
@@ -479,6 +482,7 @@ Hello,
 | [0611-valid-triangle-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0647-palindromic-substrings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0844-backspace-string-compare](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
@@ -775,6 +779,7 @@ Hello,
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0611-valid-triangle-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |

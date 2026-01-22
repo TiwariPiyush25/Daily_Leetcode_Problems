@@ -13,29 +13,17 @@ class Solution {
         }
     }
     public int[] kthSmallestPrimeFraction(int[] arr, int k) {
-        PriorityQueue<pair> maxheap = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<pair> p = new PriorityQueue<>(Collections.reverseOrder());
 
         for(int i=0;i<arr.length;i++){
-            int st = i+1, end = arr.length-1;
-            while(st<=end){
-                if(st != end){
-                    maxheap.add(new pair((double)arr[i],(double)arr[st]));
-                    maxheap.add(new pair((double)arr[i],(double)arr[end]));
-                }
-                else {
-                    maxheap.add(new pair((double)arr[i],(double)arr[end]));
-                }
+            for(int j = i+1;j<arr.length;j++){
+                p.add(new pair((double)arr[i],(double)arr[j]));
 
-                st++;
-                end--;
+                if(p.size()>k) p.remove();
             }
         }
 
-        while(maxheap.size()>k){
-            maxheap.remove();
-        }
-
-        int[] ans = {(int)maxheap.peek().x,(int)maxheap.peek().y};
+        int[] ans = {(int)p.peek().x,(int)p.peek().y};
         return ans;
     }
 }

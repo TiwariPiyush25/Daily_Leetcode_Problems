@@ -1,6 +1,6 @@
 class MyHashMap {
-    ArrayList<Integer> arr1;
-    ArrayList<Integer> arr2;
+    List<Integer> arr1;
+    List<Integer> arr2;
     public MyHashMap() {
         arr1 =  new ArrayList<>();
         arr2 =  new ArrayList<>();

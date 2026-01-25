@@ -49,6 +49,7 @@ Hello,
 | [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0611-valid-triangle-number) |
+| [0622-design-circular-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
@@ -806,6 +807,7 @@ Hello,
 | [0147-insertion-sort-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0147-insertion-sort-list) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0706-design-hashmap) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
@@ -1004,6 +1006,7 @@ Hello,
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0622-design-circular-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0706-design-hashmap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0706-design-hashmap) |
 ## Iterator
 |  |
@@ -1022,4 +1025,8 @@ Hello,
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0706-design-hashmap) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->

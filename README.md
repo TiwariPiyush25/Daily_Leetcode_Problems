@@ -720,6 +720,7 @@ Hello,
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1641-count-sorted-vowel-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Recursion
 |  |
 | ------- |
@@ -998,6 +999,7 @@ Hello,
 | [0207-course-schedule](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
@@ -1005,6 +1007,7 @@ Hello,
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1514-path-with-maximum-probability](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1514-path-with-maximum-probability) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1043,4 +1046,5 @@ Hello,
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

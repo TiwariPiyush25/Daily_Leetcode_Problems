@@ -86,6 +86,7 @@ Hello,
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1476-subrectangle-queries](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-subrectangle-queries) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -549,6 +550,7 @@ Hello,
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1476-subrectangle-queries](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-subrectangle-queries) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
@@ -1024,6 +1026,7 @@ Hello,
 | [0641-design-circular-deque](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0641-design-circular-deque) |
 | [0706-design-hashmap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0901-online-stock-span) |
+| [1476-subrectangle-queries](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1603-design-parking-system) |
 ## Iterator
 |  |

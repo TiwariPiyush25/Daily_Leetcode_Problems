@@ -46,6 +46,7 @@ Hello,
 | [0455-assign-cookies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0611-valid-triangle-number) |
@@ -796,6 +797,7 @@ Hello,
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0540-single-element-in-a-sorted-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |

@@ -3,36 +3,22 @@ class FrontMiddleBackQueue {
     public FrontMiddleBackQueue() {
         arr = new ArrayList<>();
     }
-    
     public void pushFront(int val) {
         arr.add(0,val);
     }
-    
     public void pushMiddle(int val) {
-        int mid = (arr.size())/2;
-        arr.add(mid,val);
+        arr.add(arr.size()/2,val);
     }
-    
     public void pushBack(int val) {
         arr.add(val);
     }
-    
     public int popFront() {
-        if(arr.size()==0) return -1;
-        int x  = arr.remove(0);
-        return x;
+        return arr.size()==0 ? -1 : arr.remove(0);
     }
-    
     public int popMiddle() {
-        if(arr.size()==0) return -1;
-        int mid = (arr.size()-1)/2; // left middle
-        int x  = arr.remove(mid);
-        return x;
+        return arr.size()==0 ? -1 : arr.remove((arr.size()-1)/2); // left middle
     }
-    
     public int popBack() {
-        if(arr.size()==0) return -1;
-        int x  = arr.remove(arr.size()-1);
-        return x;
+        return arr.size()==0 ? -1 : arr.remove(arr.size()-1);
     }
 }

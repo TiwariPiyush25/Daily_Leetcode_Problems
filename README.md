@@ -287,6 +287,7 @@ Hello,
 | [1514-path-with-maximum-probability](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1753-maximum-score-from-removing-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1753-maximum-score-from-removing-stones) |
+| [1845-seat-reservation-manager](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1845-seat-reservation-manager) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -1046,6 +1047,7 @@ Hello,
 | [1476-subrectangle-queries](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-subrectangle-queries) |
 | [1603-design-parking-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1603-design-parking-system) |
 | [1670-design-front-middle-back-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
+| [1845-seat-reservation-manager](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1845-seat-reservation-manager) |
 ## Iterator
 |  |
 | ------- |

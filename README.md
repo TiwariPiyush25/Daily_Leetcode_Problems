@@ -123,6 +123,7 @@ Hello,
 | [1991-find-the-middle-index-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2043-simple-bank-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2043-simple-bank-system) |
 | [2048-build-array-from-permutation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 | [2057-smallest-index-with-equal-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -205,6 +206,7 @@ Hello,
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2043-simple-bank-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2043-simple-bank-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -465,6 +467,7 @@ Hello,
 | [1603-design-parking-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
+| [2043-simple-bank-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2043-simple-bank-system) |
 | [2048-build-array-from-permutation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -1048,6 +1051,7 @@ Hello,
 | [1603-design-parking-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1603-design-parking-system) |
 | [1670-design-front-middle-back-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 | [1845-seat-reservation-manager](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1845-seat-reservation-manager) |
+| [2043-simple-bank-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2043-simple-bank-system) |
 ## Iterator
 |  |
 | ------- |

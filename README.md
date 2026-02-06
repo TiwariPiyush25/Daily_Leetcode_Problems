@@ -65,6 +65,7 @@ Hello,
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0806-number-of-lines-to-write-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
@@ -386,6 +387,7 @@ Hello,
 | [0677-map-sum-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0782-jewels-and-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0782-jewels-and-stones) |
+| [0806-number-of-lines-to-write-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-rotate-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0812-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |

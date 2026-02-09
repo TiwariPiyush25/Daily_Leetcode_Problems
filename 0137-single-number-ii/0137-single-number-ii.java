@@ -13,7 +13,6 @@ class Solution {
             if(count % 3 != 0){
                 res = res | (1 << bit);
             }
-            System.out.println(res);
         }
 
        return res;

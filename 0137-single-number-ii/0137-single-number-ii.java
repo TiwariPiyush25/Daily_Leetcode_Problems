@@ -1,14 +1,21 @@
 class Solution {
     public int singleNumber(int[] nums) {
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
+       int[] arr = new int[32];
+
+       int res = 0; 
+       for(int bit=0;bit<32;bit++){
+            int count =  0;
+            
+            for(int ele:nums){
+                if((ele & (1<<bit))!= 0) count++;
+            }
+
+            if(count % 3 != 0){
+                res = res | (1 << bit);
+            }
+            System.out.println(res);
         }
 
-        for(int key:map.keySet()){
-            if(map.get(key)!=3) return key;
-        }
-
-        return -1;
+       return res;
     }
 }

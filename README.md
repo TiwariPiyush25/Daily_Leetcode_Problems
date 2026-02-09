@@ -305,6 +305,7 @@ Hello,
 | ------- |
 | [0002-add-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -744,6 +745,7 @@ Hello,
 | ------- |
 | [0002-add-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0025-reverse-nodes-in-k-group) |
+| [0050-powx-n](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |

@@ -1,6 +1,5 @@
 class Solution {
-    public int perimeter;
-    public void dfs(int i,int j,int[][] grid,boolean[][] vis){
+    public void dfs(int i,int j,int[][] grid,boolean[][] vis,int[] perimeter){
         int m = grid.length , n = grid[0].length;
         vis[i][j] = true;
 
@@ -12,31 +11,28 @@ class Solution {
             int newRow = i + row[k];
             int newCol = j + col[k];
 
-            if(newRow>=0 && newRow<m && newCol>=0 && newCol<n && !vis[newRow][newCol] && grid[newRow][newCol]==1){
-                dfs(newRow,newCol,grid,vis);
-            }
             if(newRow>=0 && newRow<m && newCol>=0 && newCol<n && grid[newRow][newCol]==1){
+                if(!vis[newRow][newCol]) dfs(newRow,newCol,grid,vis,perimeter);
                 sides--;
             }
         }
 
-        perimeter += sides;
+        perimeter[0] += sides;
     }
     public int islandPerimeter(int[][] grid) {
-        perimeter = 0;
+        int[] perimeter = new int[1];
 
-        int m = grid.length;
-        int n = grid[0].length;
+        int m = grid.length , n = grid[0].length;
         boolean[][] vis = new boolean[m][n];
 
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(!vis[i][j] && grid[i][j] == 1){
-                    dfs(i,j,grid,vis);
+                    dfs(i,j,grid,vis,perimeter);
                 }
             }
         }
 
-        return perimeter;
+        return perimeter[0];
     }
 }

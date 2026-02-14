@@ -1,6 +1,5 @@
 class Solution {
-    public int maxArea;
-    public int Area;
+    public int maxArea , Area;
     public void dfs(int row,int col,int[][] grid,boolean[][] vis){
         vis[row][col] = true;
 

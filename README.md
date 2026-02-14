@@ -11,6 +11,7 @@ Hello,
 | [0047-permutations-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
@@ -714,6 +715,7 @@ Hello,
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
@@ -884,6 +886,7 @@ Hello,
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0409-longest-palindrome) |

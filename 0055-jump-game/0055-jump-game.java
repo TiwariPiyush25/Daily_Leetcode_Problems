@@ -18,7 +18,6 @@ class Solution {
     }
     public boolean canJump(int[] nums) {
         HashMap<Integer,Boolean> dp = new HashMap<>();
-
         return Jump(0,nums,dp);
     }
 }

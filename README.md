@@ -17,6 +17,7 @@ Hello,
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
@@ -371,6 +372,7 @@ Hello,
 | [0005-longest-palindromic-substring](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -560,6 +562,7 @@ Hello,
 | ------- |
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
@@ -636,6 +639,7 @@ Hello,
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -959,6 +963,7 @@ Hello,
 | [0039-combination-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0126-word-ladder-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |

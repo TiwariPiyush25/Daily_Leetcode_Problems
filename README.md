@@ -331,6 +331,7 @@ Hello,
 | [0556-next-greater-element-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
@@ -550,6 +551,7 @@ Hello,
 | [0461-hamming-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |

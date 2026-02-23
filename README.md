@@ -75,6 +75,7 @@ Hello,
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
@@ -202,6 +203,7 @@ Hello,
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0782-jewels-and-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0782-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
+| [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -256,6 +258,7 @@ Hello,
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
+| [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -847,6 +850,7 @@ Hello,
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
+| [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |

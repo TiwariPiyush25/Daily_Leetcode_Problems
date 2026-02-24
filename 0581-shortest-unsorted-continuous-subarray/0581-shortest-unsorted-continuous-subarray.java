@@ -1,8 +1,7 @@
 class Solution {
     public int findUnsortedSubarray(int[] nums) {
         int n = nums.length;
-        int min = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
+        int min = Integer.MAX_VALUE , max = Integer.MIN_VALUE;
         boolean flag = false;
 
         for(int i=1;i<n;i++){

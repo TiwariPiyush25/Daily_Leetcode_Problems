@@ -80,6 +80,7 @@ Hello,
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
@@ -484,6 +485,7 @@ Hello,
 | [0682-baseball-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
+| [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -586,6 +588,7 @@ Hello,
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |

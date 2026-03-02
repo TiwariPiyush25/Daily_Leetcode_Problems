@@ -74,6 +74,7 @@ Hello,
 | [0806-number-of-lines-to-write-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
+| [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
@@ -588,6 +589,7 @@ Hello,
 | [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0733-flood-fill) |
+| [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
@@ -690,6 +692,7 @@ Hello,
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
@@ -831,6 +834,7 @@ Hello,
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
+| [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-univalued-binary-tree) |
@@ -1117,6 +1121,7 @@ Hello,
 | ------- |
 | [0130-surrounded-regions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Trie

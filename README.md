@@ -383,6 +383,7 @@ Hello,
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |

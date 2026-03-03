@@ -423,6 +423,7 @@ Hello,
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1328-break-a-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1328-break-a-palindrome) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1660-thousand-separator) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
@@ -492,6 +493,7 @@ Hello,
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1389-create-target-array-in-the-given-order) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1552-build-an-array-with-stack-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1603-design-parking-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1603-design-parking-system) |
 | [1642-water-bottles](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1642-water-bottles) |
@@ -796,6 +798,7 @@ Hello,
 | [0231-power-of-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization

@@ -207,6 +207,7 @@ Hello,
 | [0782-jewels-and-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0782-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -697,6 +698,7 @@ Hello,
 | [0841-keys-and-rooms](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1005-univalued-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-univalued-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -1123,6 +1125,7 @@ Hello,
 | [0130-surrounded-regions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Trie
@@ -1145,6 +1148,7 @@ Hello,
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Data Stream

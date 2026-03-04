@@ -1,9 +1,11 @@
 class Solution {
     public int findNonMinOrMax(int[] nums) {
-        Arrays.sort(nums);
+        int min = nums[0], max = nums[0];
+        for(int ele:nums){
+            max = Math.max(ele,max);
+            min = Math.min(ele,min);
+        }
 
-        int n = nums.length;
-        int min = nums[0] , max = nums[n-1];
         for(int ele:nums){
             if(ele!=min && ele!=max){
                 return ele;

@@ -164,6 +164,7 @@ Hello,
 | [2678-number-of-senior-citizens](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 | [2679-sum-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -299,6 +300,7 @@ Hello,
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2679-sum-in-a-matrix) |
 | [2706-buy-two-chocolates](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [3024-type-of-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |

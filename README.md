@@ -23,6 +23,7 @@ Hello,
 | [0130-surrounded-regions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0198-house-robber) |
@@ -193,6 +194,7 @@ Hello,
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0139-word-break) |
 | [0202-happy-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
@@ -408,6 +410,7 @@ Hello,
 | [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
@@ -787,6 +790,7 @@ Hello,
 | [0072-edit-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
@@ -833,6 +837,7 @@ Hello,
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0139-word-break) |
 | [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
@@ -1163,6 +1168,7 @@ Hello,
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0139-word-break) |
 | [0677-map-sum-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 ## Hash Function

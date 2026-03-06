@@ -377,6 +377,7 @@ Hello,
 | [1753-maximum-score-from-removing-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1753-maximum-score-from-removing-stones) |
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1903-largest-odd-number-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -454,6 +455,7 @@ Hello,
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1859-sorting-the-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1859-sorting-the-sentence) |
+| [1903-largest-odd-number-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [1954-replace-all-digits-with-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1954-replace-all-digits-with-characters) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -987,6 +989,7 @@ Hello,
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1833-maximum-ice-cream-bars](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1903-largest-odd-number-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |

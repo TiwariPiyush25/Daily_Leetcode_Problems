@@ -5,21 +5,17 @@ class Solution {
         Arrays.sort(nums,0,n);
 
         int st = 0,end = 0;
-        long totalSum = 0;
-        long maxSize = 0;
+        long totalSum = 0; long maxSize = 0;
         while(end < n){
             totalSum += nums[end];
-
-            long size = end - st + 1;
-            long maxSum  = size * nums[end];
-            long expense = maxSum - totalSum;
-
-            while(st < end && expense > k) {
-                totalSum -= nums[st];
-                maxSum  = (end-st) * nums[end];
-                expense = maxSum - totalSum;
-                st++;
+            
+            //             MaxSum(st to end)          TotalSum(st to end)
+            long expense = ((long)(end-st+1) * (long)nums[end]) - totalSum;
+            while(expense > k) {
+                totalSum -= nums[st++];
+                expense = ((long)(end-st+1) * (long)nums[end]) - totalSum;
             }
+
             maxSize = Math.max(end-st+1,maxSize); 
             end++;
         }

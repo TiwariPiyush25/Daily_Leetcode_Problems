@@ -14,13 +14,13 @@ class Solution {
             long maxSum  = size * nums[end];
             long expense = maxSum - totalSum;
 
-            if(expense > k) {
+            while(st < end && expense > k) {
                 totalSum -= nums[st];
+                maxSum  = (end-st) * nums[end];
+                expense = maxSum - totalSum;
                 st++;
             }
-            else {
-                maxSize = Math.max(maxSize,size);
-            }
+            maxSize = Math.max(end-st+1,maxSize); 
             end++;
         }
 

@@ -8,7 +8,6 @@ class Solution {
         for(int i =0;i<order.length();i++){
             if(map.containsKey(order.charAt(i))){
                 int cnt = map.get(order.charAt(i));
-                System.out.println(order.charAt(i) + " " + cnt);
                 while(cnt-- > 0){
                     sb.append(order.charAt(i));
                 }

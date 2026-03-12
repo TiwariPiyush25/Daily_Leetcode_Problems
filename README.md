@@ -678,6 +678,7 @@ Hello,
 | [0102-binary-tree-level-order-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -717,6 +718,7 @@ Hello,
 | [0101-symmetric-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -774,6 +776,7 @@ Hello,
 | [0102-binary-tree-level-order-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -872,6 +875,7 @@ Hello,
 | [0102-binary-tree-level-order-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0126-word-ladder-ii) |

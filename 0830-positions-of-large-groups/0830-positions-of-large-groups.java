@@ -1,5 +1,6 @@
 class Solution {
     public List<List<Integer>> largeGroupPositions(String s) {
+        s += '&'; // never count
         int i = 0;
         int j = 0;
 
@@ -22,14 +23,6 @@ class Solution {
             }
 
             j++;
-        }
-        
-        if(cnt >= 3){
-            List<Integer> temp = new ArrayList<>();
-            temp.add(i);
-            temp.add(j-1);
-
-             ans.add(temp);
         }
 
         return ans;

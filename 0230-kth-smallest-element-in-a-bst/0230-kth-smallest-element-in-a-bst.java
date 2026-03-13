@@ -21,7 +21,10 @@ class Solution {
 
         inorder(root.left,k);
         cnt++;
-        if(cnt == k) ans = root.val;
+        if(cnt == k){
+            ans = root.val;
+            return;
+        }
         inorder(root.right,k);
     }
     public int kthSmallest(TreeNode root, int k) {

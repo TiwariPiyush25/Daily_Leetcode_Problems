@@ -17,7 +17,6 @@ class BSTIterator {
     List<Integer> lst=new ArrayList<>();
 
     Stack<TreeNode> st=new Stack<>();
-
     public BSTIterator(TreeNode root) {
         TreeNode temp=root;
 
@@ -27,7 +26,7 @@ class BSTIterator {
                 temp=temp.left;
             }
             else{
-                if(st.isEmpty()) break; // Breaking condition of Infinite loop
+                if(st.isEmpty()) break;
 
                 TreeNode top=st.pop();
                 lst.add(top.val);

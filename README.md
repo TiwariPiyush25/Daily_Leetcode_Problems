@@ -677,6 +677,7 @@ Hello,
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -719,6 +720,7 @@ Hello,
 |  |
 | ------- |
 | [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
+| [0098-validate-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -777,6 +779,7 @@ Hello,
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -927,6 +930,7 @@ Hello,
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0278-first-bad-version](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |

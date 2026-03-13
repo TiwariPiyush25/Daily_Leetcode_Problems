@@ -717,6 +717,7 @@ Hello,
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -778,6 +779,7 @@ Hello,
 | [1192-critical-connections-in-a-network](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
@@ -822,6 +824,7 @@ Hello,
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -934,6 +937,7 @@ Hello,
 | [1035-cousins-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |

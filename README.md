@@ -423,6 +423,7 @@ Hello,
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0434-number-of-segments-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1002,6 +1003,7 @@ Hello,
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
@@ -1026,6 +1028,7 @@ Hello,
 | [0055-jump-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0055-jump-game) |
 | [0324-wiggle-sort-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
+| [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0409-longest-palindrome) |
 | [0435-non-overlapping-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -1073,6 +1076,7 @@ Hello,
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0901-online-stock-span) |

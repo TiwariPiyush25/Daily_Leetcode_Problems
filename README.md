@@ -704,6 +704,7 @@ Hello,
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
@@ -804,6 +805,7 @@ Hello,
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0904-leaf-similar-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
@@ -947,6 +949,7 @@ Hello,
 | [0540-single-element-in-a-sorted-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |

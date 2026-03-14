@@ -1,58 +1,55 @@
 class Solution {
-    public class Triplet{
+    public class triplet{
         int row;
         int col;
-        int time;
+        int min;
 
-        Triplet(int r,int c,int t){
+        triplet(int r,int c,int m){
             this.row = r;
             this.col = c;
-            this.time = t;
+            this.min = m;
         }
     }
     public int orangesRotting(int[][] grid) {
-        int m = grid.length, n = grid[0].length;
-        int[][] vis = new int[m][n];
-        int freshcnt = 0;
+        int m = grid.length; int n =grid[0].length;
 
-        Queue<Triplet> q = new LinkedList<>();
+        int[][] vis = new int[m][n];
+        Queue<triplet> q = new LinkedList<>();
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j] == 2){
-                    q.add(new Triplet(i,j,0));
-                    vis[i][j] = 2;
+                    q.add(new triplet(i,j,0));
+                    vis[i][j] = 1;
                 }
-                else {
-                    vis[i][j] = 0;
-                }
-
-                if(grid[i][j] == 1) freshcnt++;
             }
         }
 
         int[] row = {-1,0,1,0};
         int[] col = {0,-1,0,1};
-
-        int maxTime = 0;
-        int rottoncnt = 0;
+        int Totalmin = 0;
         while(!q.isEmpty()){
-            Triplet top = q.remove();
-            int r = top.row,c = top.col,t = top.time;
-            maxTime = Math.max(maxTime,t);
+            triplet top = q.remove();
 
-            for(int i=0;i<4;i++){
-                int newRow = r + row[i];
-                int newCol = c + col[i];
-
-                if(newRow>=0 && newRow<m && newCol>=0 && newCol<n && grid[newRow][newCol]==1 && vis[newRow][newCol] != 2){
-                    vis[newRow][newCol] = 2;
-                    q.add(new Triplet(newRow,newCol,t+1));
-                    rottoncnt++;
+            for(int i = 0;i<4;i++){
+                int newRow = top.row + row[i];
+                int newCol = top.col + col[i];
+            
+                if(newRow >=0 && newCol>=0 && newRow<m && newCol<n && vis[newRow][newCol]==0 && grid[newRow][newCol] == 1){
+                    vis[newRow][newCol] = 1;
+                    q.add(new triplet(newRow,newCol,top.min+1));
+                    Totalmin = Math.max(top.min+1,Totalmin);
                 }
             }
         }
 
-        if(freshcnt != rottoncnt) return -1; // if any orange remain fresh(you don't rotton it)
-        return maxTime;
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                if(grid[i][j] == 1 && vis[i][j] == 0){
+                    return -1;
+                }
+            }
+        }
+
+        return Totalmin;
     }
 }

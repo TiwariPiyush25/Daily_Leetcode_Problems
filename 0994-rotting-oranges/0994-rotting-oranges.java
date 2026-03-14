@@ -13,7 +13,6 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int m = grid.length; int n =grid[0].length;
 
-        int[][] vis = new int[m][n];
         Queue<triplet> q = new LinkedList<>();
         // put all Rotten Oranges to the Queue
         int freshCnt = 0;
@@ -21,7 +20,6 @@ class Solution {
             for(int j=0;j<n;j++){
                 if(grid[i][j] == 2){
                     q.add(new triplet(i,j,0));
-                    vis[i][j] = 1;
                 }
                 if(grid[i][j] == 1) freshCnt++;
              }
@@ -38,9 +36,9 @@ class Solution {
                 int newRow = top.row + row[i];
                 int newCol = top.col + col[i];
             
-                if(newRow >=0 && newCol>=0 && newRow<m && newCol<n && vis[newRow][newCol]==0 && grid[newRow][newCol] == 1){
+                if(newRow >=0 && newCol>=0 && newRow<m && newCol<n && grid[newRow][newCol] == 1){
                     freshCnt--;
-                    vis[newRow][newCol] = 1;
+                    grid[newRow][newCol] = 2;
                     q.add(new triplet(newRow,newCol,top.min+1));
                     Totalmin = top.min+1;
                 }

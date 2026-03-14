@@ -15,18 +15,22 @@ class Solution {
 
         int[][] vis = new int[m][n];
         Queue<triplet> q = new LinkedList<>();
+        // put all Rotten Oranges to the Queue
+        int freshCnt = 0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j] == 2){
                     q.add(new triplet(i,j,0));
                     vis[i][j] = 1;
                 }
-            }
+                if(grid[i][j] == 1) freshCnt++;
+             }
         }
 
         int[] row = {-1,0,1,0};
         int[] col = {0,-1,0,1};
         int Totalmin = 0;
+        // Rotten the Oranges
         while(!q.isEmpty()){
             triplet top = q.remove();
 
@@ -35,21 +39,14 @@ class Solution {
                 int newCol = top.col + col[i];
             
                 if(newRow >=0 && newCol>=0 && newRow<m && newCol<n && vis[newRow][newCol]==0 && grid[newRow][newCol] == 1){
+                    freshCnt--;
                     vis[newRow][newCol] = 1;
                     q.add(new triplet(newRow,newCol,top.min+1));
-                    Totalmin = Math.max(top.min+1,Totalmin);
+                    Totalmin = top.min+1;
                 }
             }
         }
 
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                if(grid[i][j] == 1 && vis[i][j] == 0){
-                    return -1;
-                }
-            }
-        }
-
-        return Totalmin;
+        return freshCnt > 0 ? -1 : Totalmin;
     }
 }

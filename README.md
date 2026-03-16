@@ -48,6 +48,7 @@ Hello,
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
@@ -957,6 +958,7 @@ Hello,
 | [0374-guess-number-higher-or-lower](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0538-convert-bst-to-greater-tree) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
@@ -1005,6 +1007,7 @@ Hello,
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -1077,6 +1080,7 @@ Hello,
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [0901-online-stock-span](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0901-online-stock-span) |
@@ -1281,4 +1285,8 @@ Hello,
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1192-critical-connections-in-a-network) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->

@@ -9,15 +9,14 @@ class Solution {
 
         int[] row = {-1,0,1,0};
         int[] col = {0,-1,0,1};
-        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b) -> a[2] - b[2]);
-        pq.add(new int[]{0,0,0});
 
-        while(!pq.isEmpty()){
-            int[] top = pq.remove();
+        Queue<int[]> q = new LinkedList<>();
+        q.add(new int[]{0,0,0});
+        while(!q.isEmpty()){
+            int[] top = q.remove();
             int r = top[0], c = top[1], Obs = top[2];
 
             if(Obs > Obstacles[r][c]) continue;
-
             for(int i=0;i<4;i++){
                 int nr = r + row[i], nc = c + col[i];
 
@@ -28,7 +27,7 @@ class Solution {
                     }
                     if(totalObs < Obstacles[nr][nc]){
                         Obstacles[nr][nc] = totalObs;
-                        pq.add(new int[]{nr,nc,totalObs});
+                        q.add(new int[]{nr,nc,totalObs});
                     }
                 }
             }

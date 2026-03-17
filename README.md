@@ -1252,6 +1252,7 @@ Hello,
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 ## Trie
 |  |
 | ------- |

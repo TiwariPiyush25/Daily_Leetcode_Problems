@@ -35,6 +35,7 @@ class Solution {
         }
 
         if(ans.size() != n) return new int[0];
+        // convert arraylist to array
         int[] arr  = new int[n];
         for(int i=0;i<ans.size();i++){
             arr[i] = ans.get(i);

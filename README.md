@@ -94,6 +94,7 @@ Hello,
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1293-three-consecutive-odds](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -648,6 +649,7 @@ Hello,
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -945,6 +947,7 @@ Hello,
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1035-cousins-in-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |

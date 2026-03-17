@@ -2,35 +2,40 @@ class Solution {
     public int shortestPath(int[][] grid, int k) {
         int m = grid.length, n = grid[0].length;
 
-        int[][] dist = new int[m][n];
-        for(int[] row : dist) Arrays.fill(row, -1);
-
+        boolean[][][] vis = new boolean[m+1][n+1][k+1];
         Queue<int[]> q = new LinkedList<>();
-        q.add(new int[]{0,0,0,k});
+        q.add(new int[]{0,0,k});
 
         int[] r = {-1,0,1,0};
         int[] c = {0,-1,0,1};
 
-        dist[0][0] = k;
-
+        int steps = 0;
         while(!q.isEmpty()){
-            int[] top = q.remove();
+            int size = q.size();
 
-            if(top[0] == m-1 && top[1] == n-1) return top[2];
+            for(int i=0;i<size;i++){
+                int[] top = q.remove();
 
-            for(int j = 0; j < 4; j++){
-                int nr = r[j] + top[0];
-                int nc = c[j] + top[1];
+                if(top[0] == m-1 && top[1] == n-1) return steps;
 
-                if(nr>=0 && nr<m && nc>=0 && nc<n){
-                    int x = top[3] - grid[nr][nc];
-                    if(x >= 0 && dist[nr][nc] < x){
-                        dist[nr][nc] = x;
+                for(int j = 0; j < 4; j++){
+                    int nr = r[j] + top[0];
+                    int nc = c[j] + top[1];
 
-                        q.add(new int[]{nr, nc, top[2]+1, x});
+                    if(nr>=0 && nr<m && nc>=0 && nc<n){
+                        if(grid[nr][nc] == 0 && !vis[nr][nc][top[2]]){
+                            q.add(new int[]{nr,nc,top[2]});
+                            vis[nr][nc][top[2]] = true;
+                        }
+                        else if(grid[nr][nc] == 1 && top[2] > 0 && !vis[nr][nc][top[2]-1]){
+                            q.add(new int[]{nr,nc,top[2]-1});
+                            vis[nr][nc][top[2]-1] = true;
+                        }
                     }
-                }
-            } 
+                } 
+            }
+
+            steps++;
         }
 
         return -1;

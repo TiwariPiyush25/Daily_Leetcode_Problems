@@ -5,10 +5,10 @@ class Solution {
             if(i > farthestReach){
                 return false;
             }
-            if(i >= nums.length-1) return true;
             
             int CurrmaxJump = i + nums[i];
             farthestReach = Math.max(farthestReach,CurrmaxJump);
+            if(farthestReach >= nums.length-1) return true;
         }
 
         return true;

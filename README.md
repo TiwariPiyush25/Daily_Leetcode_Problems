@@ -196,6 +196,7 @@ Hello,
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3618-split-array-by-prime-indices](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3693-climbing-stairs-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
@@ -889,6 +890,7 @@ Hello,
 | [1641-count-sorted-vowel-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |
 ## Recursion
 |  |
 | ------- |

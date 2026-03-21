@@ -76,6 +76,7 @@ Hello,
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0806-number-of-lines-to-write-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
+| [0821-shortest-distance-to-a-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0848-shifting-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0848-shifting-letters) |
@@ -453,6 +454,7 @@ Hello,
 | [0791-custom-sort-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0791-custom-sort-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-rotate-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0812-rotate-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0830-positions-of-large-groups](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0830-positions-of-large-groups) |
 | [0844-backspace-string-compare](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [0848-shifting-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0848-shifting-letters) |
@@ -594,6 +596,7 @@ Hello,
 | [0647-palindromic-substrings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0821-shortest-distance-to-a-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0844-backspace-string-compare](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |

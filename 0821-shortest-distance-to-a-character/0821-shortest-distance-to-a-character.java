@@ -3,32 +3,17 @@ class Solution {
         int n = s.length();
         int[] ans = new int[n];
         
-        int[] prefix = new int[n];
-        int[] suffix = new int[n];
-        int idx = Integer.MAX_VALUE;
+        int idx = n;
         for(int i=0;i<s.length();i++){
-            if(s.charAt(i) == c) idx = i;
-            prefix[i] = idx;
+            if(s.charAt(i) == c) idx = 0;
+            ans[i] = idx++;
         }
 
-        idx = Integer.MAX_VALUE;
+        idx = n;
         for(int i=n-1;i>=0;i--){
-            if(s.charAt(i) == c) idx = i;
-            suffix[i] = idx;
+            if(s.charAt(i) == c) idx = 0;
+            ans[i] = Math.min(idx++,ans[i]);
         }
-        for(int i=0;i<s.length();i++){
-            if(s.charAt(i) == c) {
-                ans[i] = 0;
-                continue;
-            }
-            else {
-                int x1 = Math.abs(i-prefix[i]);
-                int x2 = Math.abs(i-suffix[i]);
-
-                ans[i] = Math.min(x1,x2);
-            }
-        }
-
         return ans;
     }
 }

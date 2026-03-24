@@ -4,16 +4,13 @@ class Solution {
         int[] ans = new int[n];
         while(c > 0){
             int idx = i % n;
-
             if(c >= i+1){
                ans[idx] += i+1;
-               c -= i+1;     
             }
             else {
                 ans[idx] += c;
-                break;
             }
-
+            c -= (i+1);     
             i++;
         }
 

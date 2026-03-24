@@ -1,4 +1,8 @@
 class Solution {
+    public long mod = 1000000007;
+    static long totalSum , maxValue;
+    public HashMap<TreeNode,Long> dp1;
+    public HashMap<TreeNode,Long> dp2;
     public long Sum(TreeNode root){
         if(root == null) return 0;
         if(dp2.containsKey(root)) return dp2.get(root);
@@ -6,11 +10,6 @@ class Solution {
         dp2.put(root,(root.val + (long)Sum(root.left) + (long)Sum(root.right))%mod);
         return (root.val + (long)Sum(root.left) + (long)Sum(root.right))%mod;
     }
-    public long mod = 1000000007;
-    static long totalSum;
-    public long maxValue;
-    public HashMap<TreeNode,Long> dp1;
-    public HashMap<TreeNode,Long> dp2;
     public long helper(TreeNode root){
         totalSum = Math.max(Sum(root),totalSum);
         if(root == null) return 1;

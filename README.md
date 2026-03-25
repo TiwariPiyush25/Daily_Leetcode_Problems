@@ -371,6 +371,7 @@ Hello,
 | [0231-power-of-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
 | [0342-power-of-four](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0507-perfect-number) |
@@ -880,6 +881,7 @@ Hello,
 | [0322-coin-change](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0338-counting-bits) |
+| [0343-integer-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0392-is-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |

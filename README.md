@@ -21,6 +21,7 @@ Hello,
 | [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0137-single-number-ii) |
@@ -872,6 +873,7 @@ Hello,
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
+| [0120-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0198-house-robber) |

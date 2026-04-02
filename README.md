@@ -450,6 +450,7 @@ Hello,
 | [0474-ones-and-zeroes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0556-next-greater-element-iii) |

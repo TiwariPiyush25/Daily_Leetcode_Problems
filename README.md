@@ -39,6 +39,7 @@ Hello,
 | [0260-single-number-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0289-game-of-life](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0322-coin-change](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -1168,6 +1169,7 @@ Hello,
 | ------- |
 | [0053-maximum-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0191-number-of-1-bits) |
+| [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -1266,6 +1268,7 @@ Hello,
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0622-design-circular-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0641-design-circular-deque) |
 | [0677-map-sum-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0677-map-sum-pairs) |
@@ -1340,4 +1343,12 @@ Hello,
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
+## Segment Tree
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->

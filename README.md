@@ -101,6 +101,7 @@ Hello,
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1293-three-consecutive-odds](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -390,6 +391,7 @@ Hello,
 | [1236-n-th-tribonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1260-day-of-the-year](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1289-day-of-the-week) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1551-minimum-operations-to-make-array-equal) |

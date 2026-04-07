@@ -488,6 +488,7 @@ Hello,
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1660-thousand-separator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1660-thousand-separator) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
@@ -1101,6 +1102,7 @@ Hello,
 | [1328-break-a-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1328-break-a-palindrome) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1753-maximum-score-from-removing-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1753-maximum-score-from-removing-stones) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |

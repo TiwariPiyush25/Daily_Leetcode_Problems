@@ -163,6 +163,7 @@ Hello,
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2293-min-max-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2293-min-max-game) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
@@ -580,6 +581,7 @@ Hello,
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2293-min-max-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2293-min-max-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |

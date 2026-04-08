@@ -9,7 +9,6 @@ class Solution {
 
                 if(cnt == k){
                     res += sum;
-                    System.out.println(res);
                     cnt = sum = 0;
                 }
                 i++;

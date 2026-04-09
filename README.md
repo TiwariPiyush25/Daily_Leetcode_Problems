@@ -201,6 +201,7 @@ Hello,
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3330-modify-the-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3330-modify-the-matrix) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -428,6 +429,7 @@ Hello,
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -1228,6 +1230,7 @@ Hello,
 | [2574-left-and-right-sum-differences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Quickselect
 |  |
 | ------- |

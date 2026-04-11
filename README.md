@@ -379,6 +379,7 @@ Hello,
 | [0204-count-primes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
+| [0319-bulb-switcher](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
@@ -1171,6 +1172,7 @@ Hello,
 ## Brainteaser
 |  |
 | ------- |
+| [0319-bulb-switcher](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0319-bulb-switcher) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Backtracking
 |  |

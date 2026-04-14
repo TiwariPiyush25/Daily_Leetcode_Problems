@@ -1,27 +1,29 @@
 class Solution {
-    public int helper(int i,int Canbuy,int[] arr,int[][] dp){
-        if(i == arr.length) return 0;
-
-        if(dp[i][Canbuy] != -1) return dp[i][Canbuy];
-        int profit = 0;
-        if(Canbuy == 1){
-            int take = -arr[i] + helper(i+1,0,arr,dp);
-            int nottake = helper(i+1,1,arr,dp);
-            profit = Math.max(take,nottake);
-        }
-        else{
-            int sell = arr[i] + helper(i+1,1,arr,dp);
-            int notsell = helper(i+1,0,arr,dp);
-            profit = Math.max(sell,notsell);
-        }
-
-        return dp[i][Canbuy]  = profit;
-    }
     public int maxProfit(int[] prices) {
         int n = prices.length;
-        int[][] dp = new int[n][2];
-        for(int[] d:dp) Arrays.fill(d,-1);
+        
+        int[][] dp = new int[n+1][2];
+        dp[n][0] = dp[n][1] = 0;
 
-        return helper(0,1,prices,dp);
+        for(int i=n-1;i>=0;i--){
+            for(int Canbuy=0;Canbuy<=1;Canbuy++){
+                int profit = 0;
+
+                if(Canbuy == 1){
+                    int take = -prices[i] + dp[i+1][0];
+                    int nottake = dp[i+1][1];
+                    profit = Math.max(take,nottake);
+                }
+                else{
+                    int sell = prices[i] + dp[i+1][1];
+                    int notsell = dp[i+1][0];
+                    profit = Math.max(sell,notsell);
+                }
+
+                dp[i][Canbuy]  = profit;
+            }
+        }
+
+        return dp[0][1];
     }
 }

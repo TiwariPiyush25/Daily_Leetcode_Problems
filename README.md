@@ -22,6 +22,7 @@ Hello,
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0130-surrounded-regions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0137-single-number-ii) |
@@ -899,6 +900,7 @@ Hello,
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0198-house-robber) |

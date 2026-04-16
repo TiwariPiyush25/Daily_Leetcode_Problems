@@ -76,6 +76,7 @@ Hello,
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0706-design-hashmap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0706-design-hashmap) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0735-asteroid-collision) |
@@ -931,6 +932,7 @@ Hello,
 | [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0647-palindromic-substrings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
@@ -1120,6 +1122,7 @@ Hello,
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0605-can-place-flowers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0611-valid-triangle-number) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |

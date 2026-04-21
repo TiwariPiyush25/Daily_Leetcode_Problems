@@ -72,6 +72,7 @@ Hello,
 | [0641-design-circular-deque](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0641-design-circular-deque) |
 | [0645-set-mismatch](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
+| [0661-image-smoother](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
@@ -692,6 +693,7 @@ Hello,
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
+| [0661-image-smoother](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |

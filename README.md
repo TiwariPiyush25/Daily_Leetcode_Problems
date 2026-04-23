@@ -139,6 +139,7 @@ Hello,
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1791-richest-customer-wealth](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1827-minimum-operations-to-make-the-array-increasing) |

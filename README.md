@@ -533,6 +533,7 @@ Hello,
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2678-number-of-senior-citizens](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2678-number-of-senior-citizens) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2833-furthest-point-from-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
 | [3019-number-of-changing-keys](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3019-number-of-changing-keys) |
@@ -569,6 +570,7 @@ Hello,
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2833-furthest-point-from-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2833-furthest-point-from-origin) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Simulation

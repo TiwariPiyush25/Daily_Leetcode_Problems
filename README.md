@@ -6,6 +6,7 @@ Hello,
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0039-combination-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0045-jump-game-ii) |
@@ -221,6 +222,7 @@ Hello,
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0127-word-ladder) |

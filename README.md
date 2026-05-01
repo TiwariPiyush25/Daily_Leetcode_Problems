@@ -397,6 +397,7 @@ Hello,
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0507-perfect-number) |
+| [0537-complex-number-multiplication](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0556-next-greater-element-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0556-next-greater-element-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0728-self-dividing-numbers) |
@@ -475,6 +476,7 @@ Hello,
 | [0516-longest-palindromic-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0537-complex-number-multiplication](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0541-reverse-string-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0556-next-greater-element-iii) |
@@ -579,6 +581,7 @@ Hello,
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
+| [0537-complex-number-multiplication](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0735-asteroid-collision) |

@@ -182,6 +182,7 @@ Hello,
 | [2500-delete-greatest-value-in-each-row](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2540-minimum-common-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -275,6 +276,7 @@ Hello,
 | [2367-number-of-arithmetic-triplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
@@ -660,6 +662,7 @@ Hello,
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2540-minimum-common-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Bit Manipulation
 |  |
@@ -1076,6 +1079,7 @@ Hello,
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2540-minimum-common-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Linked List
 |  |

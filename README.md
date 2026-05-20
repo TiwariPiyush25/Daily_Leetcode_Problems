@@ -234,6 +234,7 @@ Hello,
 | [0202-happy-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0290-word-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0409-longest-palindrome) |
@@ -470,6 +471,7 @@ Hello,
 | [0139-word-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
+| [0290-word-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |

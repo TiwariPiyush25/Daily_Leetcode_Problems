@@ -223,6 +223,7 @@ Hello,
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3618-split-array-by-prime-indices](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3618-split-array-by-prime-indices) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -712,6 +713,7 @@ Hello,
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Matrix
@@ -762,6 +764,7 @@ Hello,
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Number Theory
 |  |
 | ------- |
@@ -1004,6 +1007,7 @@ Hello,
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization
 |  |

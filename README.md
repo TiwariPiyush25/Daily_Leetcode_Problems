@@ -8,6 +8,7 @@ Hello,
 | ------- |
 | [0001-two-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0045-jump-game-ii) |
 | [0047-permutations-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
@@ -1057,6 +1058,7 @@ Hello,
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |

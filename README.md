@@ -87,6 +87,7 @@ Hello,
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0804-unique-morse-code-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0821-shortest-distance-to-a-character) |
@@ -256,6 +257,7 @@ Hello,
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0782-jewels-and-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0782-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0791-custom-sort-string) |
+| [0804-unique-morse-code-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
@@ -501,6 +503,7 @@ Hello,
 | [0763-partition-labels](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0782-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0791-custom-sort-string) |
+| [0804-unique-morse-code-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-rotate-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0812-rotate-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0821-shortest-distance-to-a-character) |

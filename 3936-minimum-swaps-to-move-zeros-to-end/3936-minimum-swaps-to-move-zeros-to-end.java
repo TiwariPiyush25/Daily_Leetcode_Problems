@@ -18,8 +18,8 @@ class Solution {
                 cnt++;
             }
 
-            while(i < nums.length && nums[i] != 0) i++;
-            while(j >= 0 && nums[j] == 0) j--;
+            while(i < j && nums[i] != 0) i++;
+            while(j >= i && nums[j] == 0) j--;
         }
 
         return cnt;

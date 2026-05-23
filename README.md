@@ -58,6 +58,7 @@ Hello,
 | [0435-non-overlapping-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0463-island-perimeter) |
@@ -419,6 +420,7 @@ Hello,
 | [0343-integer-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0343-integer-break) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0507-perfect-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0507-perfect-number) |
 | [0537-complex-number-multiplication](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0556-next-greater-element-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0556-next-greater-element-iii) |

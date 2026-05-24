@@ -419,6 +419,7 @@ Hello,
 | [0319-bulb-switcher](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0343-integer-break) |
+| [0400-nth-digit](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0445-add-two-numbers-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -1102,6 +1103,7 @@ Hello,
 | [0354-russian-doll-envelopes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0374-guess-number-higher-or-lower](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0400-nth-digit](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0475-heaters) |

@@ -533,6 +533,7 @@ Hello,
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0953-reverse-only-letters) |
+| [1078-occurrences-after-bigram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1078-occurrences-after-bigram) |
 | [1092-shortest-common-supersequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1092-shortest-common-supersequence) |
 | [1205-defanging-an-ip-address](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1205-defanging-an-ip-address) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |

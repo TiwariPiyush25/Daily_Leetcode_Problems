@@ -104,6 +104,7 @@ Hello,
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
+| [0997-find-the-town-judge](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -270,6 +271,7 @@ Hello,
 | [0884-uncommon-words-from-two-sentences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -1436,6 +1438,7 @@ Hello,
 | [0547-number-of-provinces](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [0997-find-the-town-judge](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |

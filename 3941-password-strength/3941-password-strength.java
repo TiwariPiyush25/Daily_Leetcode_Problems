@@ -6,17 +6,14 @@ class Solution {
         return 5;
     }
     public int passwordStrength(String password) {
-        String distinct = "";
-
+        HashSet<Character> set = new HashSet<>();
         for(int i = 0;i < password.length(); i++){
-            if(distinct.indexOf(password.charAt(i)) == -1){
-                distinct += password.charAt(i);
-            }
+            set.add(password.charAt(i));
         }
 
         int sum = 0;
-        for(int i = 0;i < distinct.length(); i++){
-            sum += score(distinct.charAt(i));
+        for(char c : set){
+            sum += score(c);
         }
 
         return sum;

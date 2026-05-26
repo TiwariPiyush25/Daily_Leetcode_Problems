@@ -4,13 +4,12 @@ class Solution {
         Arrays.sort(nums);
         if(n <= 3) return 0;
         
-        int i = 2;
+        int i = 3;
         int j = n;
-
         int mindiff = Integer.MAX_VALUE;
-        while(i >= -1){
+        while(i >= 0){
             int max = nums[j-1];
-            int min = nums[i+1];
+            int min = nums[i];
 
             mindiff = Math.min(mindiff , max - min);
             i--; j--;

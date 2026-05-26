@@ -146,6 +146,7 @@ Hello,
 | [1580-shuffle-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1580-shuffle-the-array) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1670-design-front-middle-back-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
@@ -356,6 +357,7 @@ Hello,
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1710-maximum-units-on-a-truck) |

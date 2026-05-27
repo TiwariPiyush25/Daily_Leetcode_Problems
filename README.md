@@ -179,6 +179,7 @@ Hello,
 | [2048-build-array-from-permutation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 | [2057-smallest-index-with-equal-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2126-destroying-asteroids](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -374,6 +375,7 @@ Hello,
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2126-destroying-asteroids](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -1249,6 +1251,7 @@ Hello,
 | [1903-largest-odd-number-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2126-destroying-asteroids](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2233-maximum-product-after-k-increments](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2233-maximum-product-after-k-increments) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |

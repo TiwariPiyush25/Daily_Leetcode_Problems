@@ -8,26 +8,14 @@ class Solution {
 
         int st = 1, end = floor;
         while(st <= end){
-            int k = (st + end) / 2;
+            int k = (st + end) / 2; // mid floor
 
-            int Eggbreaks = 0; int EggNotbreaks = 0;
-            // egg Breaks from kth floor
-            if(dp[egg-1][k-1] != -1) Eggbreaks = dp[egg-1][k-1];
-            else {
-                Eggbreaks = solve(egg - 1 , k - 1 , dp);
-                dp[egg-1][k-1] = Eggbreaks;
-            }
-
-            // egg Not Breaks from kth floor
-            if(dp[egg][floor-k] != -1) EggNotbreaks = dp[egg][floor-k];
-            else {
-                EggNotbreaks = solve(egg , floor - k , dp);
-                dp[egg][floor-k] = EggNotbreaks;
-            }
-
+            int Eggbreaks  = solve(egg - 1 , k - 1 , dp); // egg Breaks from kth floor
+            int EggNotbreaks = solve(egg , floor - k , dp); // egg Not Breaks from kth floor
+            
             minAttempts = Math.min(minAttempts , 1 + Math.max(Eggbreaks , EggNotbreaks));
 
-            if(Eggbreaks < EggNotbreaks){
+            if(Eggbreaks < EggNotbreaks){ // attemps in EggBreak is less than EggNotbreaks
                 st = k + 1;
             }
             else {

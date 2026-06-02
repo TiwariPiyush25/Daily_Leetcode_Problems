@@ -505,6 +505,7 @@ Hello,
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3280-convert-date-to-binary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -773,6 +774,7 @@ Hello,
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3370-smallest-number-with-all-set-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |

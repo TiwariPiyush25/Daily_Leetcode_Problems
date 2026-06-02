@@ -239,6 +239,7 @@ Hello,
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3618-split-array-by-prime-indices](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3618-split-array-by-prime-indices) |
@@ -508,6 +509,7 @@ Hello,
 | [3370-smallest-number-with-all-set-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |

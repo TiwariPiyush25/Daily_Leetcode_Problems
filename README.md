@@ -493,6 +493,7 @@ Hello,
 | [2578-split-with-minimum-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2578-split-with-minimum-sum) |
 | [2761-prime-pairs-with-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2769-find-the-maximum-achievable-number) |
+| [2843-count-symmetric-integers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2843-count-symmetric-integers) |
 | [2864-maximum-odd-binary-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -823,6 +824,7 @@ Hello,
 | [2367-number-of-arithmetic-triplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
+| [2843-count-symmetric-integers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2843-count-symmetric-integers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 ## Number Theory

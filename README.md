@@ -461,6 +461,7 @@ Hello,
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0887-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1103-distribute-candies-to-people) |
@@ -1050,6 +1051,7 @@ Hello,
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
+| [0887-super-egg-drop](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0887-super-egg-drop) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1035-uncrossed-lines](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1092-shortest-common-supersequence) |
@@ -1167,6 +1169,7 @@ Hello,
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
+| [0887-super-egg-drop](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0887-super-egg-drop) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
 | [1004-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |

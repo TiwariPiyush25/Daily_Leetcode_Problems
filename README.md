@@ -308,6 +308,7 @@ Hello,
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2043-simple-bank-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2043-simple-bank-system) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -619,6 +620,7 @@ Hello,
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
@@ -673,6 +675,7 @@ Hello,
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2833-furthest-point-from-origin) |

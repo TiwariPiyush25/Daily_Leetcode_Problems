@@ -1,14 +1,20 @@
 class Solution {
     public int numEquivDominoPairs(int[][] dominoes) {
+        HashMap<String,Integer> map = new HashMap<>();
         int count = 0;
-        for(int i = 0;i < dominoes.length;i++){
-            for(int j = i + 1;j < dominoes.length;j++){
-                int a = dominoes[i][0], b = dominoes[i][1];
-                int c = dominoes[j][0], d = dominoes[j][1];
+        for(int[] domino : dominoes){
+            int a = domino[0] , b = domino[1];
 
-                if((a == c && b == d) ||(a == d && b == c)){
-                    count++;
-                }
+            if(map.containsKey(a+"-"+b)){
+                count += map.get(a+"-"+b);
+                map.put(a+"-"+b,map.get(a+"-"+b)+1);
+            }
+            else if(map.containsKey(b+"-"+a)){
+                count += map.get(b+"-"+a);
+                map.put(b+"-"+a,map.get(b+"-"+a)+1);
+            }
+            else {
+                map.put(a+"-"+b , 1);
             }
         }
 

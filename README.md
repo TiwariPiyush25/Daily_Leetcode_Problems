@@ -487,6 +487,7 @@ Hello,
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1903-largest-odd-number-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1925-count-square-sum-triples](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -831,6 +832,7 @@ Hello,
 | ------- |
 | [0204-count-primes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1925-count-square-sum-triples](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |

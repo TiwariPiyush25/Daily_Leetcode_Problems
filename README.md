@@ -116,6 +116,7 @@ Hello,
 | [1035-uncrossed-lines](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1035-uncrossed-lines) |
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1089-duplicate-zeros) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -292,6 +293,7 @@ Hello,
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -665,6 +667,7 @@ Hello,
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
+| [1128-number-of-equivalent-domino-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |

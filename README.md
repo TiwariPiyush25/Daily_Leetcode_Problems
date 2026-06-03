@@ -294,6 +294,7 @@ Hello,
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -594,6 +595,7 @@ Hello,
 | [1260-day-of-the-year](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1260-day-of-the-year) |
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1328-break-a-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1328-break-a-palindrome) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -663,6 +665,7 @@ Hello,
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
+| [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1603-design-parking-system) |

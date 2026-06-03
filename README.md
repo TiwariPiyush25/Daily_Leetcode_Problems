@@ -45,6 +45,7 @@ Hello,
 | [0238-product-of-array-except-self](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
@@ -1161,6 +1162,7 @@ Hello,
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0275-h-index-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |

@@ -118,6 +118,7 @@ Hello,
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1089-duplicate-zeros) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -483,6 +484,7 @@ Hello,
 | [1025-divisor-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1025-divisor-game) |
 | [1031-add-to-array-form-of-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1103-distribute-candies-to-people) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1236-n-th-tribonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-day-of-the-year](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1260-day-of-the-year) |
@@ -1295,6 +1297,7 @@ Hello,
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1328-break-a-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1328-break-a-palindrome) |

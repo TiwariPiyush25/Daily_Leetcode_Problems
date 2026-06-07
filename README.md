@@ -559,6 +559,7 @@ Hello,
 | [0165-compare-version-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |
@@ -901,6 +902,7 @@ Hello,
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -954,6 +956,7 @@ Hello,
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0463-island-perimeter) |
@@ -1017,6 +1020,7 @@ Hello,
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0337-house-robber-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0337-house-robber-iii) |
 | [0404-sum-of-left-leaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0513-find-bottom-left-tree-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0513-find-bottom-left-tree-value) |
@@ -1148,6 +1152,7 @@ Hello,
 | [0207-course-schedule](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0210-course-schedule-ii) |
 | [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0429-n-ary-tree-level-order-traversal) |
@@ -1496,6 +1501,7 @@ Hello,
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0622-design-circular-queue) |

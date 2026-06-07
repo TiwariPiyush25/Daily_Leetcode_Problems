@@ -103,6 +103,7 @@ Hello,
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0885-spiral-matrix-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-monotonic-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0896-monotonic-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
@@ -292,6 +293,7 @@ Hello,
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
@@ -921,6 +923,7 @@ Hello,
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-univalued-binary-tree) |
@@ -1035,6 +1038,7 @@ Hello,
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-univalued-binary-tree) |
@@ -1400,6 +1404,7 @@ Hello,
 | [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0654-maximum-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0654-maximum-binary-tree) |
+| [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Sliding Window
 |  |

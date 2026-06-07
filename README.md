@@ -194,6 +194,7 @@ Hello,
 | [2149-rearrange-array-elements-by-sign](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2211-k-radius-subarray-averages) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -315,6 +316,7 @@ Hello,
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2043-simple-bank-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2043-simple-bank-system) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -928,6 +930,7 @@ Hello,
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -1039,6 +1042,7 @@ Hello,
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |

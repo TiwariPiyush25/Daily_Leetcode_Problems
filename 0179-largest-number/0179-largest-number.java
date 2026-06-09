@@ -1,19 +1,16 @@
 class Solution {
-    public int compare(int a,int b){
-        String x = "" + a;
-        String y = "" + b;
-
-        return (x + y).compareTo(y + x);
-    }
     public String largestNumber(int[] nums) {
-        PriorityQueue<Integer> pq = new PriorityQueue<>((a,b) -> compare(a,b));
+        String[] arr = new String[nums.length];
+        int i = 0;
         for(int ele:nums){
-            pq.add(ele);
+            arr[i++] = ""+ele;
         }
+        Arrays.sort(arr, (x,y) -> (y + x).compareTo(x + y));
 
+        i = 0;
         String ans = "";
-        while(!pq.isEmpty()){
-            ans = pq.remove() + ans;
+        while(i < nums.length){
+            ans += arr[i++];
         }
 
         return ans.charAt(0) == '0' ? "0" : ans;

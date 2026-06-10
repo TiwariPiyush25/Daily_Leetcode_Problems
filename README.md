@@ -327,6 +327,7 @@ Hello,
 | [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2325-decode-the-message) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -646,6 +647,7 @@ Hello,
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2325-decode-the-message) |
 | [2370-longest-ideal-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2370-longest-ideal-subsequence) |
@@ -701,6 +703,7 @@ Hello,
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
+| [2287-rearrange-characters-to-make-target-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2833-furthest-point-from-origin) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |

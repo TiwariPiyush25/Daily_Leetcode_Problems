@@ -16,7 +16,7 @@ class Solution {
         }
 
         if(i != j){
-            int len = j - i;
+            long len = j - i;
             ans = (ans + len * (len + 1) / 2);
         }
 

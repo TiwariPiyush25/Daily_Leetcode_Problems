@@ -514,6 +514,7 @@ Hello,
 | [1641-count-sorted-vowel-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
 | [1642-water-bottles](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1642-water-bottles) |
 | [1753-maximum-score-from-removing-stones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1753-maximum-score-from-removing-stones) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -633,6 +634,7 @@ Hello,
 | [1660-thousand-separator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1660-thousand-separator) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1759-count-number-of-homogenous-substrings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1859-sorting-the-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1859-sorting-the-sentence) |

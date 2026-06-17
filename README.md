@@ -120,6 +120,7 @@ Hello,
 | [1035-uncrossed-lines](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1035-uncrossed-lines) |
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1089-duplicate-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1089-duplicate-zeros) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -867,6 +868,7 @@ Hello,
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -1212,6 +1214,7 @@ Hello,
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1035-cousins-in-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |

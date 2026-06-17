@@ -214,6 +214,7 @@ Hello,
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -881,6 +882,7 @@ Hello,
 | [1791-richest-customer-wealth](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2679-sum-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2679-sum-in-a-matrix) |
@@ -1144,6 +1146,7 @@ Hello,
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2370-longest-ideal-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2370-longest-ideal-subsequence) |
+| [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3693-climbing-stairs-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |

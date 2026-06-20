@@ -47,16 +47,18 @@ class Solution {
             while(j < s.length() && search(s.substring(i,j))){
                 j++;
             }
-
-            if(!search(s.substring(i,j))){
-                ans.add(s.substring(i,j));
-                insert(s.substring(i,j));
+            
+            String temp = s.substring(i,j);
+            if(!search(temp)){
+                ans.add(temp);
+                insert(temp);
                 i = j;
             }
         }
 
-        if(!search(s.substring(i,j))){
-            ans.add(s.substring(i,j));
+        String temp = s.substring(i,j);
+        if(!search(temp)){
+            ans.add(temp);
         }
         
         return ans;

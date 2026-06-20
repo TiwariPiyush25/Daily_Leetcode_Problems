@@ -192,6 +192,7 @@ Hello,
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-build-array-from-permutation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
 | [2057-smallest-index-with-equal-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2057-smallest-index-with-equal-value) |
+| [2105-watering-plants-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2105-watering-plants-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -751,6 +752,7 @@ Hello,
 | [1806-count-of-matches-in-tournament](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1806-count-of-matches-in-tournament) |
 | [2043-simple-bank-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2043-simple-bank-system) |
 | [2048-build-array-from-permutation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
+| [2105-watering-plants-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2105-watering-plants-ii) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -816,6 +818,7 @@ Hello,
 | [1679-max-number-of-k-sum-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [2105-watering-plants-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2105-watering-plants-ii) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |

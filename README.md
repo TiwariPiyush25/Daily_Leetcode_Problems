@@ -563,6 +563,7 @@ Hello,
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3270-find-the-key-of-the-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3270-find-the-key-of-the-numbers) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
@@ -693,6 +694,7 @@ Hello,
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3194-find-words-containing-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-find-words-containing-character) |
+| [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3280-convert-date-to-binary) |
 | [3379-score-of-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3379-score-of-a-string) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |

@@ -10,14 +10,14 @@ class Solution {
         return sum;
     }
     public int countBalls(int lowLimit, int highLimit) {
-        int[] arr = new int[highLimit+1];
+        HashMap<Integer,Integer> map = new HashMap<>();
 
         int max = Integer.MIN_VALUE;
         for(int i = lowLimit;i <= highLimit;i++){
             int sum = getSum(i);
-            arr[sum]++;
+            map.put(sum ,map.getOrDefault(sum,0)+1);
 
-            max = Math.max(arr[sum],max);
+            max = Math.max(max,map.get(sum));
         }
         return max;
     }

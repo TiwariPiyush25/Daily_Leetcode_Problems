@@ -182,6 +182,7 @@ Hello,
 | [1848-minimum-distance-to-the-target-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -909,6 +910,7 @@ Hello,
 | [1572-matrix-diagonal-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
@@ -1254,6 +1256,7 @@ Hello,
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |

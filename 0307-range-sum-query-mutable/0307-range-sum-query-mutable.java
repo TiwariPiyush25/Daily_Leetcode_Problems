@@ -1,79 +1,54 @@
-class Node{
-    int start, end;
-    int sum;
-    Node left , right;
-
-    Node(int start,int end){
-        this.start = start;
-        this.end = end;
-        sum = 0;
-        this.left = null;
-        this.right = null;
-    }
-}
-
-class SegmentTree {
-    Node root;
-
-    public SegmentTree(int[] nums) {
-        if (nums.length > 0) {
-            this.root = new Node(0, nums.length - 1);
-            build(root, nums);
-        }
-    }
-
-    private void build(Node node,int[] nums){
-        if (node.start == node.end){
-            node.sum = nums[node.start];
-            return;
-        }
-
-        int mid = node.start + (node.end - node.start) / 2;
-        node.left = new Node(node.start,mid);
-        node.right = new Node(mid+1,node.end);
-
-        build(node.left,nums);
-        build(node.right,nums);
-
-        node.sum = node.left.sum + node.right.sum;
-    }
-
-    public int rangeSum(Node node,int left,int right){
-        if(node.start > right || node.end < left) return 0;
-        if (node.start >= left && node.end <= right) return node.sum;
-
-        return rangeSum(node.left,left,right) + rangeSum(node.right,left,right);
-    }
-
-    public void update(Node node, int index, int val) {
-        if (node.start == node.end) {
-            node.sum = val;
-            return;
-        }
-
-        int mid = node.start + (node.end - node.start) / 2;
-        if (index <= mid) {
-            update(node.left, index, val);
-        } else {
-            update(node.right, index, val);
-        }
-
-        node.sum = node.left.sum + node.right.sum;
-    }
-}
-
 class NumArray {
-    SegmentTree s;
+    int[] segmentTree;
+    int len;
+    public void buildTree(int i,int l,int r,int[] arr){
+        if (l == r){
+            segmentTree[i] = arr[l];
+            return;
+        }
+
+        int mid = (l + r) / 2;
+        buildTree((2 * i) + 1,l,mid,arr);
+        buildTree((2 * i) + 2,mid + 1,r,arr);
+
+        segmentTree[i] = segmentTree[2 * i + 1] + segmentTree[2 * i + 2];
+    }
+    public void updateTree(int idx,int val,int i,int l,int r){
+        if (l == r){
+            segmentTree[i] = val;
+            return;
+        }
+
+        int mid = (l + r)/2;
+        if (idx <= mid){ 
+            updateTree(idx,val,2 * i + 1, l,mid);
+        }
+        else {
+            updateTree(idx,val,2 * i + 2, mid + 1,r);
+        }
+
+        segmentTree[i] = segmentTree[2 * i + 1] + segmentTree[2 * i + 2];
+    }
+    public int rangeSum(int st,int end,int i,int l,int r){
+        if (l > end || r < st) return 0;
+        if (l >= st && r <= end) return segmentTree[i];
+
+        int mid = (l + r) / 2;
+        return rangeSum(st,end,2 * i + 1,l,mid) + rangeSum(st,end,2 * i + 2,mid + 1,r);
+    }
     public NumArray(int[] nums) {
-       s =  new SegmentTree(nums);
+        int n = nums.length;
+        len = n;
+        segmentTree = new int[n * 4];
+        buildTree(0,0,n-1,nums);
     }
     
     public void update(int index, int val) {
-        s.update(s.root,index,val);
+        updateTree(index,val,0,0,len-1);
     }
     
     public int sumRange(int left, int right) {
-        return  s.rangeSum(s.root,left,right);
+        return rangeSum(left,right,0,0,len-1);
     }
 }
 

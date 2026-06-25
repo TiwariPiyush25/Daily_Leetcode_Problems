@@ -354,6 +354,7 @@ Hello,
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -554,6 +555,7 @@ Hello,
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2571-find-the-pivot-integer) |
 | [2578-split-with-minimum-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2578-split-with-minimum-sum) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2761-prime-pairs-with-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2843-count-symmetric-integers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2843-count-symmetric-integers) |

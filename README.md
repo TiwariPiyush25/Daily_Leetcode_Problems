@@ -50,6 +50,7 @@ Hello,
 | [0275-h-index-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0275-h-index-ii) |
 | [0289-game-of-life](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0300-longest-increasing-subsequence) |
+| [0303-range-sum-query-immutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0322-coin-change) |
@@ -1500,6 +1501,7 @@ Hello,
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0848-shifting-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0848-shifting-letters) |
 | [1004-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -1579,6 +1581,7 @@ Hello,
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0303-range-sum-query-immutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0307-range-sum-query-mutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0307-range-sum-query-mutable) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0622-design-circular-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0622-design-circular-queue) |

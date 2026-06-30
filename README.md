@@ -321,6 +321,7 @@ Hello,
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -655,6 +656,7 @@ Hello,
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1328-break-a-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1328-break-a-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -1492,6 +1494,7 @@ Hello,
 | [0567-permutation-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |

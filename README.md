@@ -39,6 +39,7 @@ Hello,
 | [0198-house-robber](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0204-count-primes) |
+| [0209-minimum-size-subarray-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0217-contains-duplicate) |
@@ -1276,6 +1277,7 @@ Hello,
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0098-validate-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
+| [0209-minimum-size-subarray-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0275-h-index-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0275-h-index-ii) |
@@ -1488,6 +1490,7 @@ Hello,
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0413-arithmetic-slices) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1508,6 +1511,7 @@ Hello,
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0303-range-sum-query-immutable) |
 | [0848-shifting-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0848-shifting-letters) |

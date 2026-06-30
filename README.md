@@ -271,6 +271,7 @@ Hello,
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3693-climbing-stairs-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |
 | [3838-weighted-word-mapping](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
@@ -451,6 +452,7 @@ Hello,
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -1418,6 +1420,7 @@ Hello,
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Interactive
 |  |
 | ------- |

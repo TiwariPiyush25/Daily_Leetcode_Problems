@@ -20,10 +20,10 @@ class Solution {
         return maxSum;
     }
     public int maxSubarraySumCircular(int[] nums) {
-        int minSum = MinimumSumSubarray(nums);
         int maxSum = MaximumSumSubarray(nums);
         if(maxSum < 0) return maxSum;
-        
+        int minSum = MinimumSumSubarray(nums);
+
         int totalSum = 0;
         for(int ele : nums){
             totalSum += ele;

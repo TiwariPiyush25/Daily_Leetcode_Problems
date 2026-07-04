@@ -259,6 +259,7 @@ Hello,
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3330-modify-the-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3330-modify-the-matrix) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
@@ -486,6 +487,7 @@ Hello,
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -932,6 +934,7 @@ Hello,
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |
 | [2679-sum-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2679-sum-in-a-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3330-modify-the-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3330-modify-the-matrix) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 ## Enumeration
@@ -1274,6 +1277,7 @@ Hello,
 | [1971-find-if-path-exists-in-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1588,6 +1592,7 @@ Hello,
 | [1514-path-with-maximum-probability](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1514-path-with-maximum-probability) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1665,6 +1670,7 @@ Hello,
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Data Stream
 |  |
 | ------- |

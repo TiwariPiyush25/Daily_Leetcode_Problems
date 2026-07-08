@@ -584,6 +584,7 @@ Hello,
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3280-convert-date-to-binary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3280-convert-date-to-binary) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3360-stone-removal-game) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -810,6 +811,7 @@ Hello,
 | [3100-water-bottles-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3100-water-bottles-ii) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3360-stone-removal-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3360-stone-removal-game) |
 | [3597-partition-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3597-partition-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |

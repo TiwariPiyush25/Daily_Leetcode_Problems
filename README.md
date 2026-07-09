@@ -22,6 +22,7 @@ Hello,
 | [0078-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -904,6 +905,7 @@ Hello,
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
@@ -1151,6 +1153,7 @@ Hello,
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0120-triangle) |
@@ -1359,6 +1362,7 @@ Hello,
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |
@@ -1452,6 +1456,7 @@ Hello,
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |

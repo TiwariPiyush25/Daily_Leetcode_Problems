@@ -1198,6 +1198,7 @@ Hello,
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1641-count-sorted-vowel-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
@@ -1229,6 +1230,7 @@ Hello,
 | [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1236-n-th-tribonacci-number) |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 ## Breadth-First Search
 |  |
 | ------- |

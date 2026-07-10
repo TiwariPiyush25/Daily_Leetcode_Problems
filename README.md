@@ -73,6 +73,7 @@ Hello,
 | [0474-ones-and-zeroes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0474-ones-and-zeroes) |
 | [0475-heaters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
+| [0491-non-decreasing-subsequences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
@@ -299,6 +300,7 @@ Hello,
 | [0438-find-all-anagrams-in-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0491-non-decreasing-subsequences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0535-encode-and-decode-tinyurl](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0567-permutation-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
@@ -881,6 +883,7 @@ Hello,
 | [0342-power-of-four](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0397-integer-replacement) |
 | [0461-hamming-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0461-hamming-distance) |
+| [0491-non-decreasing-subsequences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0645-set-mismatch](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -1495,6 +1498,7 @@ Hello,
 | [0113-path-sum-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0216-combination-sum-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |

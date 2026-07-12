@@ -188,6 +188,7 @@ Hello,
 | [1848-minimum-distance-to-the-target-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -935,6 +936,7 @@ Hello,
 | [1572-matrix-diagonal-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |

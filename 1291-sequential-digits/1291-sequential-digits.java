@@ -1,7 +1,8 @@
 class Solution {
-    public void helper(int x,int low,int high,HashSet<Integer> ans){
-        if(x >= low && x <= high){
+    public void helper(int x,int low,int high,List<Integer> ans){
+        if(x >= low && x <= high && !ans.contains(x)){
             ans.add(x);
+            return;
         }
         if(x > high || x % 10 == 9 || x % 10 == 0) return;
         
@@ -32,17 +33,11 @@ class Solution {
         }
         while(copy2 > 9 && cnt-- > 0) copy2 /= 10;
 
-        HashSet<Integer> temp= new HashSet<>();
-        for(int i=copy1;i <= copy2;i++){
-            if(isPossible(i)) helper(i,low,high,temp);
-        }
-
         List<Integer> ans = new ArrayList<>();
-        for(int ele : temp){
-            ans.add(ele);
+        for(int i=copy1;i <= copy2;i++){
+            if(isPossible(i)) helper(i,low,high,ans);
         }
 
-        Collections.sort(ans);
         return ans;
     }
 }

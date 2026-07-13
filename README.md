@@ -953,6 +953,7 @@ Hello,
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1291-sequential-digits) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1995-count-special-quadruplets) |

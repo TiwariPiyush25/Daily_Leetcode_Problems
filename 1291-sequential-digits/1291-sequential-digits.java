@@ -1,43 +1,22 @@
 class Solution {
-    public void helper(int x,int low,int high,List<Integer> ans){
-        if(x >= low && x <= high && !ans.contains(x)){
-            ans.add(x);
-            return;
-        }
-        if(x > high || x % 10 == 9 || x % 10 == 0) return;
-        
-        int nextdigit = (x % 10) + 1;
-        int newVal = (x * 10) + nextdigit;
-
-        helper(newVal,low,high,ans);
-    }
-    public boolean isPossible(int n){
-        int prev = (n % 10) + 1;
-
-        while(n > 0){
-            int ld = n % 10;
-            if(prev != ld + 1) return false;
-            prev = ld;
-            n /= 10;
-        }
-
-        return true;
-    }
     public List<Integer> sequentialDigits(int low, int high) {
-        int copy1 = low;
-        int copy2 = high;
-        int cnt = 0;
-        while(copy1 > 9) {
-            cnt++;
-            copy1 /= 10;
-        }
-        while(copy2 > 9 && cnt-- > 0) copy2 /= 10;
-
         List<Integer> ans = new ArrayList<>();
-        for(int i=copy1;i <= copy2;i++){
-            if(isPossible(i)) helper(i,low,high,ans);
+
+        for(int i = 1;i <= 9;i++){
+            int nextDigit = (i % 10) + 1;
+            int num = i;
+
+            while(num <= high && nextDigit <= 9){
+                num = num * 10 + nextDigit;
+
+                if(num >= low && num <= high) {
+                    ans.add(num);
+                }
+                nextDigit++;
+            }
         }
 
+        ans.sort(null);
         return ans;
     }
 }

@@ -217,6 +217,7 @@ Hello,
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2211-k-radius-subarray-averages) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2233-maximum-product-after-k-increments) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
@@ -1342,6 +1343,7 @@ Hello,
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

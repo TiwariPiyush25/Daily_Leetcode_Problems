@@ -12,7 +12,7 @@ class Solution {
     }
     public int minSpeedOnTime(int[] dist, double hour) {
         int st = 1;
-        int end = (int) 10e8;
+        int end = (int) 1e7;
 
         int ans = -1;
         while(st <= end){

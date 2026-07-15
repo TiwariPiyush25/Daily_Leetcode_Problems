@@ -213,6 +213,7 @@ Hello,
 | [2149-rearrange-array-elements-by-sign](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2187-minimum-time-to-complete-trips](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2211-k-radius-subarray-averages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2211-k-radius-subarray-averages) |
@@ -1343,6 +1344,7 @@ Hello,
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [2187-minimum-time-to-complete-trips](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2540-minimum-common-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2540-minimum-common-value) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |

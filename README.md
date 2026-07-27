@@ -103,6 +103,7 @@ Hello,
 | [0806-number-of-lines-to-write-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
 | [0821-shortest-distance-to-a-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0848-shifting-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0848-shifting-letters) |
@@ -414,6 +415,7 @@ Hello,
 | [0720-longest-word-in-dictionary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0791-custom-sort-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
@@ -861,6 +863,7 @@ Hello,
 | [0763-partition-labels](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0763-partition-labels) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0821-shortest-distance-to-a-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0825-friends-of-appropriate-ages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0844-backspace-string-compare](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
@@ -1351,6 +1354,7 @@ Hello,
 | [0701-insert-into-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
+| [0825-friends-of-appropriate-ages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0875-koko-eating-bananas](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0887-super-egg-drop) |

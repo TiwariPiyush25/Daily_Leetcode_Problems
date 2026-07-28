@@ -1,18 +1,10 @@
 class Solution {
-    public void bfs(int i,List<List<Integer>> adj,boolean[] vis,int end){
-        Queue<Integer> Q = new LinkedList<>();
-        Q.add(i);
+    public void dfs(int i,List<List<Integer>> adj,boolean[] vis,int end){
+        vis[i] = true;
 
-        while(!Q.isEmpty()){
-            int temp = Q.remove();
-
-            for(int ele:adj.get(temp)){
-                if(!vis[ele]){
-                    vis[ele] = true;
-                    Q.add(ele);
-
-                    if(ele == end) return;
-                }
+        for(int node : adj.get(i)){
+            if(!vis[node]){
+                dfs(node,adj,vis,end);
             }
         }
     }
@@ -31,7 +23,7 @@ class Solution {
        }
 
        vis[start] = true;
-       bfs(start,adj,vis,end);
+       dfs(start,adj,vis,end);
 
        return vis[end]; // path exists
     }

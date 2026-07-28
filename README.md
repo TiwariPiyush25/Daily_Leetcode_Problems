@@ -90,6 +90,7 @@ Hello,
 | [0682-baseball-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [0697-degree-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0706-design-hashmap) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -316,6 +317,7 @@ Hello,
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0677-map-sum-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0677-map-sum-pairs) |
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
+| [0697-degree-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0706-design-hashmap) |
 | [0720-longest-word-in-dictionary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0720-longest-word-in-dictionary) |
 | [0763-partition-labels](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0763-partition-labels) |

@@ -1,6 +1,7 @@
 class Solution {
     public void dfs(int i,List<List<Integer>> adj,boolean[] vis,int end){
         vis[i] = true;
+        if(vis[end]) return;
 
         for(int node : adj.get(i)){
             if(!vis[node]){

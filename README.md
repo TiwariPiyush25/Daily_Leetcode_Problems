@@ -591,6 +591,7 @@ Hello,
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3024-type-of-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3024-type-of-triangle) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3100-water-bottles-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3100-water-bottles-ii) |
@@ -729,6 +730,7 @@ Hello,
 | [2833-furthest-point-from-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2833-furthest-point-from-origin) |
 | [2864-maximum-odd-binary-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2864-maximum-odd-binary-number) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3019-number-of-changing-keys) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -1485,6 +1487,7 @@ Hello,
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2864-maximum-odd-binary-number) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |

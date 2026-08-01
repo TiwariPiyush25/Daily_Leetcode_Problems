@@ -9,7 +9,7 @@ public:
             int prev = matrix[r][c];
 
             while(r < m && c < n){
-                if(matrix[r][c] != prev) return 0;
+                if(matrix[r][c] != prev) return false;
                 r++;
                 c++;
             }
@@ -21,11 +21,11 @@ public:
             int prev = matrix[r][c];
 
             while(r < m && c < n){
-                if(matrix[r][c] != prev) return 0;
+                if(matrix[r][c] != prev) return false;
                 r++;
                 c++;
             }
         }
-        return 1;
+        return true;
     }
 };

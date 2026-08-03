@@ -1,23 +1,22 @@
 class Solution {
 public:
-    vector<vector<int>> generate(int numRows) {
-        vector<vector<int>> vec(numRows);
+    int nCr(int n,int r){
+        long long ans = 1;
 
-        for(int i = 0;i < numRows;i++){
-            for(int j = 0; j <= i;j++){
-                if(j == 0 || j == i) vec[i].push_back(1);
-                else {
-                    int val = vec[i-1][j] + vec[i-1][j-1];
-                    vec[i].push_back(val);
-                }
-            }
+        int m = min(n-r,r);
+
+        for(int i = 1;i <= m;i++){
+            ans *= (n-i+1);
+            ans /= i;
         }
 
-        return vec;
+        return (int) ans;
     }
     vector<int> getRow(int rowIndex) {
-        vector<vector<int>> ans = generate(rowIndex+1);
-
-        return ans[rowIndex];
+        vector<int> ans;
+        for(int j = 0;j <= rowIndex;j++){
+            ans.push_back(nCr(rowIndex,j));
+        }
+        return ans;
     }
 };

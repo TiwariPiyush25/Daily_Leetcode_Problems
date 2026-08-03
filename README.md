@@ -129,6 +129,7 @@ Hello,
 | [1004-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
+| [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1035-uncrossed-lines](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1035-uncrossed-lines) |
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
@@ -429,6 +430,7 @@ Hello,
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1288-remove-covered-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1451-rearrange-words-in-a-sentence) |
@@ -547,6 +549,7 @@ Hello,
 | [0908-smallest-range-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0908-smallest-range-i) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1025-divisor-game) |
+| [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1031-add-to-array-form-of-integer) |
 | [1103-distribute-candies-to-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1103-distribute-candies-to-people) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -951,6 +954,7 @@ Hello,
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
+| [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
@@ -1780,4 +1784,8 @@ Hello,
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 <!---LeetCode Topics End-->

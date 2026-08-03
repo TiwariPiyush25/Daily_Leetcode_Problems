@@ -11,8 +11,8 @@ public:
         for(char ch = c1;ch <= c2; ch++){
             for(int i = n1;i <= n2;i++){
                 string t = "";
-                t.push_back(ch);
-                t.push_back(i+'0');
+                t += ch;
+                t += (i + '0');
 
                 ans.push_back(t);
             }

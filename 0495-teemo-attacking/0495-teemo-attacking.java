@@ -9,14 +9,13 @@ class Solution {
 
             if(currTime <= endTime){
                 total += (currTime - stTime);
-                stTime = currTime;
-                endTime = currTime + duration - 1;
             }
             else {
                 total += (endTime - stTime + 1);
-                stTime = currTime;
-                endTime = currTime + duration - 1;
             }
+            // updateTime 
+            stTime = currTime;
+            endTime = currTime + duration - 1;
         }
         total += (endTime - stTime + 1);
 

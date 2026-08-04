@@ -78,6 +78,7 @@ Hello,
 | [0485-max-consecutive-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0542-01-matrix) |
 | [0575-distribute-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0575-distribute-candies) |
@@ -807,6 +808,7 @@ Hello,
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
+| [0495-teemo-attacking](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [0537-complex-number-multiplication](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0537-complex-number-multiplication) |
 | [0657-robot-return-to-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0682-baseball-game) |

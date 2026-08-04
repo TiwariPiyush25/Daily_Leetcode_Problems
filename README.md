@@ -587,6 +587,7 @@ Hello,
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1903-largest-odd-number-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [1922-count-good-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -1283,6 +1284,7 @@ Hello,
 | [0342-power-of-four](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1922-count-good-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1922-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |

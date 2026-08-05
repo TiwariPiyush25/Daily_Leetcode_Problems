@@ -9,7 +9,7 @@ public:
         while(not q.empty()){
             int front = q.front();
             
-            for(int ele : adj[front]){
+            for(auto ele : adj[front]){
                 if(not vis[ele]){
                     q.push(ele);
                     vis[ele] = 1;
@@ -22,7 +22,7 @@ public:
     vector<int> remainingMethods(int n, int k, vector<vector<int>>& invocations) {
         vector<vector<int>> adj(n);
 
-        for(vector<int> inv : invocations){
+        for(auto &inv : invocations){
             int u = inv[0] , v = inv[1];
 
             adj[u].push_back(v);
@@ -32,7 +32,7 @@ public:
         bfs(k , adj, suspicious);
 
         bool flag = 0;
-        for(vector<int> inv : invocations){
+        for(auto &inv : invocations){
             int u = inv[0] , v = inv[1];
 
             if(not suspicious[u] && suspicious[v]) {

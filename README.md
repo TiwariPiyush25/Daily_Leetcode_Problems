@@ -1148,6 +1148,7 @@ Hello,
 | [2347-count-nodes-equal-to-average-of-subtree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2347-count-nodes-equal-to-average-of-subtree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -1356,6 +1357,7 @@ Hello,
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1766,6 +1768,7 @@ Hello,
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 ## Data Stream
 |  |
 | ------- |

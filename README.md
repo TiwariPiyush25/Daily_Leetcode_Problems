@@ -175,6 +175,7 @@ Hello,
 | [1572-matrix-diagonal-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1580-shuffle-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1580-shuffle-the-array) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1584-min-cost-to-connect-all-points](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -978,6 +979,7 @@ Hello,
 | [1476-subrectangle-queries](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-subrectangle-queries) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1572-matrix-diagonal-sum) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1791-richest-customer-wealth](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1791-richest-customer-wealth) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |

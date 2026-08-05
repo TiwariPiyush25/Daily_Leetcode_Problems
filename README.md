@@ -1075,6 +1075,7 @@ Hello,
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1144,6 +1145,7 @@ Hello,
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1198,6 +1200,7 @@ Hello,
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1254-deepest-leaves-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1254-deepest-leaves-sum) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1367-linked-list-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1379-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1429,6 +1432,7 @@ Hello,
 | [0641-design-circular-deque](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0641-design-circular-deque) |
 | [0706-design-hashmap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0706-design-hashmap) |
 | [0817-linked-list-components](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0817-linked-list-components) |
+| [1367-linked-list-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1367-linked-list-in-binary-tree) |
 | [1670-design-front-middle-back-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 | [2196-reverse-nodes-in-even-length-groups](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2196-reverse-nodes-in-even-length-groups) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |

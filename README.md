@@ -283,6 +283,7 @@ Hello,
 | [3194-find-words-containing-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
+| [3238-find-the-number-of-winning-players](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3285-find-indices-of-stable-mountains) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -405,6 +406,7 @@ Hello,
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3146-permutation-difference-between-two-strings) |
+| [3238-find-the-number-of-winning-players](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -826,6 +828,7 @@ Hello,
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2833-furthest-point-from-origin) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3238-find-the-number-of-winning-players](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |

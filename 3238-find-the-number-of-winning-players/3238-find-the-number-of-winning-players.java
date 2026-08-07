@@ -13,7 +13,6 @@ class Solution {
 
         int player = 0;
         for(int key : map.keySet()){
-            System.out.println(key +" "+Arrays.toString(map.get(key)));
             for(int ele : map.get(key)){
                 if(ele > key) {
                     player++;

@@ -214,6 +214,7 @@ Hello,
 | [2043-simple-bank-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2043-simple-bank-system) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
 | [2048-build-array-from-permutation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2048-build-array-from-permutation) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2057-smallest-index-with-equal-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2079-watering-plants](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2079-watering-plants) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -370,6 +371,7 @@ Hello,
 | [1995-count-special-quadruplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1995-count-special-quadruplets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2043-simple-bank-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2043-simple-bank-system) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -734,6 +736,7 @@ Hello,
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -806,6 +809,7 @@ Hello,
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2053-kth-distinct-string-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |

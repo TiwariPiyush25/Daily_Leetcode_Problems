@@ -130,6 +130,7 @@ Hello,
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
 | [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1031-add-to-array-form-of-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1031-add-to-array-form-of-integer) |
@@ -349,6 +350,7 @@ Hello,
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0997-find-the-town-judge](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1001-n-repeated-element-in-size-2n-array) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
@@ -803,6 +805,7 @@ Hello,
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |

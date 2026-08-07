@@ -235,6 +235,7 @@ Hello,
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2233-maximum-product-after-k-increments](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2233-maximum-product-after-k-increments) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -378,6 +379,7 @@ Hello,
 | [2196-create-binary-tree-from-descriptions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2226-rings-and-rods](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-rings-and-rods) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2287-rearrange-characters-to-make-target-string) |
@@ -812,6 +814,7 @@ Hello,
 | [2053-kth-distinct-string-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -1531,6 +1534,7 @@ Hello,
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2233-maximum-product-after-k-increments](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2233-maximum-product-after-k-increments) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2530-maximal-score-after-applying-k-operations) |

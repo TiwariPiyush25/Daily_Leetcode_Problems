@@ -266,6 +266,7 @@ Hello,
 | [2733-neither-minimum-nor-maximum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2761-prime-pairs-with-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -395,6 +396,7 @@ Hello,
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
@@ -819,6 +821,7 @@ Hello,
 | [2287-rearrange-characters-to-make-target-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2287-rearrange-characters-to-make-target-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2833-furthest-point-from-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2833-furthest-point-from-origin) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -1543,6 +1546,7 @@ Hello,
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2706-buy-two-chocolates) |
 | [2864-maximum-odd-binary-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2864-maximum-odd-binary-number) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |

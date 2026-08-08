@@ -10,13 +10,12 @@ class Solution {
         for(int i = 0;i < nums.length;i++){
             for(int j = i + 1;j < nums.length;j++){
                 int v1 = nums[i];
-                int v2 = nums[j];
+                int v2 = nums[j] % 10;
 
-                while(v1 > 9){
-                    v1 /= 10;
-                }
-
-                if(gcd(v1,v2%10) == 1) beutifulpairs++;
+                // find first digit of v1
+                while(v1 > 9) v1 /= 10;
+                
+                if(gcd(v1,v2) == 1) beutifulpairs++;
             }
         }
 

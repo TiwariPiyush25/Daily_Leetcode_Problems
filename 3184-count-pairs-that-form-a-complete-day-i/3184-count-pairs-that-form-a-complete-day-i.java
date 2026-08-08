@@ -1,6 +1,6 @@
 class Solution {
     public int countCompleteDayPairs(int[] hours) {
-        HashMap<Integer,Integer> map = new HashMap<>();
+        int[] arr = new int[25];
 
         int n = hours.length;
         int counter = 0;
@@ -8,14 +8,14 @@ class Solution {
             int hr = hours[i] % 24;
 
             int rem = 24 - hr;
-            if(map.containsKey(rem)){
-                counter += map.get(rem);
+            if(arr[rem] != 0){
+                counter += arr[rem];
             }
-            else if(hr == 0 && map.containsKey(0)){
-                counter += map.get(0);
+            else if(hr == 0 && arr[0] != 0){
+                counter += arr[0];
             }
 
-            map.put(hr,map.getOrDefault(hr,0)+1);
+            arr[hr]++;
         }
 
         return counter;

@@ -28,14 +28,15 @@ class Solution {
 
             if(node == n-1) return cost;
             if(cost > dist[node][time]) continue;
-            
+
             for(int[] a:adj.get(node)){
                 int x = a[0], t = a[1];
 
-                int newCost = passingFees[x] + cost;
                 int newTime = time + t;
-
-                if(newTime <= maxTime && newCost < dist[x][newTime]){
+                if(newTime > maxTime) continue;
+                
+                int newCost = passingFees[x] + cost;
+                if(newCost < dist[x][newTime]){
                     minheap.add(new int[]{x,newCost,newTime});
                     dist[x][newTime] = newCost;
                 }

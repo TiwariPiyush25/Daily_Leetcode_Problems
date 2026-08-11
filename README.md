@@ -557,6 +557,7 @@ Hello,
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Math
 |  |
 | ------- |
@@ -1764,6 +1765,7 @@ Hello,
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1852,6 +1854,7 @@ Hello,
 | [3310-remove-methods-from-project](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 ## Data Stream
 |  |
 | ------- |

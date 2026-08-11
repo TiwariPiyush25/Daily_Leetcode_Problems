@@ -1842,6 +1842,7 @@ Hello,
 | [0997-find-the-town-judge](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [1192-critical-connections-in-a-network](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1971-find-if-path-exists-in-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -1898,4 +1899,8 @@ Hello,
 |  |
 | ------- |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 <!---LeetCode Topics End-->

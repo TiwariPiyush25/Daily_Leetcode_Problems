@@ -277,6 +277,7 @@ Hello,
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [2965-find-missing-and-repeated-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3024-type-of-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3024-type-of-triangle) |
@@ -861,6 +862,7 @@ Hello,
 | [2748-number-of-beautiful-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2748-number-of-beautiful-pairs) |
 | [2833-furthest-point-from-origin](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2833-furthest-point-from-origin) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3046-split-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3046-split-the-array) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
@@ -911,6 +913,7 @@ Hello,
 | [2558-take-gifts-from-the-richest-pile](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2679-sum-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2679-sum-in-a-matrix) |
 | [2886-faulty-keyboard](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2886-faulty-keyboard) |
+| [2960-count-tested-devices-after-test-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3100-water-bottles-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3100-water-bottles-ii) |

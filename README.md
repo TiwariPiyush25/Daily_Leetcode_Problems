@@ -606,6 +606,7 @@ Hello,
 | [1260-day-of-the-year](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1260-day-of-the-year) |
 | [1289-day-of-the-week](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1289-day-of-the-week) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1399-count-largest-group](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1399-count-largest-group) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |

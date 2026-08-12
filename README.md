@@ -1857,6 +1857,7 @@ Hello,
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [2924-find-champion-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2924-find-champion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3310-remove-methods-from-project) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |

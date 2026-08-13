@@ -249,6 +249,7 @@ Hello,
 | [2319-check-if-matrix-is-x-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2404-most-frequent-even-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2404-most-frequent-even-element) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
@@ -1059,6 +1060,7 @@ Hello,
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2373-largest-local-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2625-increment-submatrices-by-one](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2625-increment-submatrices-by-one) |

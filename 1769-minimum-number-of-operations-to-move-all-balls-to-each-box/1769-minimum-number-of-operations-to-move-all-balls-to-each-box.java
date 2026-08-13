@@ -3,9 +3,9 @@ class Solution {
         int[] ans = new int[boxes.length()];
 
         for(int i = 0;i < boxes.length();i++){
-            for(int j = 0;j < boxes.length();j++){
-                if(boxes.charAt(j) == '1'){
-                    ans[i] += Math.abs(j-i);
+            if(boxes.charAt(i) == '1'){
+                for(int j = 0;j < boxes.length();j++){
+                    ans[j] += Math.abs(i-j);
                 }
             }
         }

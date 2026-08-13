@@ -124,6 +124,7 @@ Hello,
 | [0918-maximum-sum-circular-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
+| [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
@@ -1002,6 +1003,7 @@ Hello,
 | [0645-set-mismatch](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [1009-complement-of-base-10-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -1037,6 +1039,7 @@ Hello,
 | [0766-toeplitz-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0885-spiral-matrix-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0885-spiral-matrix-iii) |
+| [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
@@ -1662,6 +1665,7 @@ Hello,
 | [0491-non-decreasing-subsequences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
+| [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -1921,4 +1925,8 @@ Hello,
 |  |
 | ------- |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->

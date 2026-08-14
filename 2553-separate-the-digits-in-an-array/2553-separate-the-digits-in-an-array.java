@@ -6,8 +6,7 @@ class Solution {
             int val = nums[i];
 
             while(val > 0){
-                int ld = val % 10;
-                temp.add(0,ld);
+                temp.add(0,val % 10);
                 val /= 10;
             }
         }

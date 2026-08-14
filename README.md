@@ -426,6 +426,7 @@ Hello,
 | [2965-find-missing-and-repeated-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3046-split-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3046-split-the-array) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -806,6 +807,7 @@ Hello,
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3019-number-of-changing-keys](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3019-number-of-changing-keys) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3146-permutation-difference-between-two-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3146-permutation-difference-between-two-strings) |
@@ -1698,6 +1700,7 @@ Hello,
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2211-k-radius-subarray-averages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2211-k-radius-subarray-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## String Matching
 |  |
 | ------- |

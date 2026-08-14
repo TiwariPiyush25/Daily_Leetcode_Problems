@@ -105,6 +105,7 @@ Hello,
 | [0735-asteroid-collision](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0747-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
+| [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0781-rabbits-in-forest](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0781-rabbits-in-forest) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0804-unique-morse-code-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0804-unique-morse-code-words) |
@@ -544,6 +545,7 @@ Hello,
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1044,6 +1046,7 @@ Hello,
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0766-toeplitz-matrix) |
+| [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0885-spiral-matrix-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0885-spiral-matrix-iii) |
 | [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
@@ -1215,6 +1218,7 @@ Hello,
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -1434,6 +1438,7 @@ Hello,
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -1487,6 +1492,7 @@ Hello,
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
@@ -1832,6 +1838,7 @@ Hello,
 | [0200-number-of-islands](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
@@ -1932,6 +1939,7 @@ Hello,
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 ## Directed Acyclic Graph
 |  |
@@ -1941,4 +1949,8 @@ Hello,
 |  |
 | ------- |
 | [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->

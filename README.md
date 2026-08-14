@@ -297,6 +297,7 @@ Hello,
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3194-find-words-containing-character](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-find-words-containing-character) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3238-find-the-number-of-winning-players](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -1074,6 +1075,7 @@ Hello,
 | [2679-sum-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2679-sum-in-a-matrix) |
 | [2923-find-champion-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2923-find-champion-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2965-find-missing-and-repeated-values) |
+| [3195-find-the-minimum-area-to-cover-all-ones-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3195-find-the-minimum-area-to-cover-all-ones-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3330-modify-the-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3330-modify-the-matrix) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |

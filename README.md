@@ -279,6 +279,7 @@ Hello,
 | [2748-number-of-beautiful-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -1024,6 +1025,7 @@ Hello,
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3370-smallest-number-with-all-set-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3370-smallest-number-with-all-set-bits) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |

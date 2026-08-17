@@ -656,6 +656,7 @@ Hello,
 | [2238-a-number-after-a-double-reversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2288-count-operations-to-obtain-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
 | [2571-find-the-pivot-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2571-find-the-pivot-integer) |
 | [2578-split-with-minimum-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2578-split-with-minimum-sum) |
@@ -1943,6 +1944,7 @@ Hello,
 | ------- |
 | [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2481-minimum-cuts-to-divide-a-circle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |

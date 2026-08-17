@@ -394,6 +394,7 @@ Hello,
 | [1679-max-number-of-k-sum-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -774,6 +775,7 @@ Hello,
 | [1759-count-number-of-homogenous-substrings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1759-count-number-of-homogenous-substrings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1859-sorting-the-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1859-sorting-the-sentence) |
@@ -860,6 +862,7 @@ Hello,
 | [1510-find-lucky-integer-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-design-parking-system](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1603-design-parking-system) |
 | [1742-maximum-number-of-balls-in-a-box](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1742-maximum-number-of-balls-in-a-box) |
+| [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |

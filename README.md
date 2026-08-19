@@ -158,6 +158,7 @@ Hello,
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
+| [1386-cinema-seat-allocation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -383,6 +384,7 @@ Hello,
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1386-cinema-seat-allocation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1399-count-largest-group](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1399-count-largest-group) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
@@ -1024,6 +1026,7 @@ Hello,
 | [1009-complement-of-base-10-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1009-complement-of-base-10-integer) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1386-cinema-seat-allocation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1610-xor-operation-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -1608,6 +1611,7 @@ Hello,
 | [1221-split-a-string-in-balanced-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1328-break-a-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1328-break-a-palindrome) |
+| [1386-cinema-seat-allocation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |

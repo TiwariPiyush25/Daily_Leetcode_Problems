@@ -297,6 +297,7 @@ Hello,
 | [3046-split-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3046-split-the-array) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
@@ -942,6 +943,7 @@ Hello,
 | [2960-count-tested-devices-after-test-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2960-count-tested-devices-after-test-operations) |
 | [3028-ant-on-the-boundary](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3028-ant-on-the-boundary) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3100-water-bottles-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3100-water-bottles-ii) |
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |

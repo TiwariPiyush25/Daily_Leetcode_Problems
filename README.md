@@ -423,6 +423,7 @@ Hello,
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2370-longest-ideal-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2370-longest-ideal-subsequence) |
+| [2374-node-with-highest-edge-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2374-node-with-highest-edge-score) |
 | [2404-most-frequent-even-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2404-most-frequent-even-element) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
@@ -1906,6 +1907,7 @@ Hello,
 | [1971-find-if-path-exists-in-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1971-find-if-path-exists-in-graph) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2374-node-with-highest-edge-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2374-node-with-highest-edge-score) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2924-find-champion-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2924-find-champion-ii) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |

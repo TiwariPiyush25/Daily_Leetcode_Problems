@@ -598,6 +598,7 @@ Hello,
 | [0204-count-primes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0279-perfect-squares) |
+| [0292-nim-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0343-integer-break) |
@@ -1686,6 +1687,7 @@ Hello,
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0319-bulb-switcher) |
 | [1025-divisor-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1025-divisor-game) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
@@ -1800,6 +1802,7 @@ Hello,
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1025-divisor-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -1976,5 +1979,14 @@ Hello,
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0292-nim-game) |
 | [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->

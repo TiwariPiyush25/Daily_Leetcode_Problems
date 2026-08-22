@@ -696,6 +696,7 @@ Hello,
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3602-hexadecimal-and-hexatrigesimal-conversion](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3602-hexadecimal-and-hexatrigesimal-conversion) |
 | [3618-split-array-by-prime-indices](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3618-split-array-by-prime-indices) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |

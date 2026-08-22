@@ -798,6 +798,7 @@ Hello,
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |

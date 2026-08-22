@@ -801,6 +801,7 @@ Hello,
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2138-divide-a-string-into-groups-of-size-k) |

@@ -127,6 +127,7 @@ Hello,
 | [0918-maximum-sum-circular-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
@@ -757,6 +758,7 @@ Hello,
 | [0884-uncommon-words-from-two-sentences](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0953-reverse-only-letters) |
 | [1078-occurrences-after-bigram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1078-occurrences-after-bigram) |
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
@@ -1993,4 +1995,8 @@ Hello,
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0292-nim-game) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->

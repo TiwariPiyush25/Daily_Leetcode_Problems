@@ -328,6 +328,7 @@ Hello,
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3693-climbing-stairs-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3731-find-missing-elements) |
 | [3838-weighted-word-mapping](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -454,6 +455,7 @@ Hello,
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3597-partition-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3597-partition-string) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |

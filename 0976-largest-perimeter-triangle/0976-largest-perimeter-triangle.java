@@ -5,19 +5,14 @@ class Solution {
     public int largestPerimeter(int[] nums) {
         Arrays.sort(nums);
         int maxPerimeter = 0;
-        for(int i = 0;i < nums.length;i++){
-            int j = i + 1, k = nums.length - 1;
-
-            while(j < k){
-                if(isTriangle(nums[i],nums[j],nums[k])){
-                    int perimeter = nums[i] + nums[j] + nums[k];
-                    maxPerimeter = Math.max(maxPerimeter ,perimeter);
-                    j++;
-                }
-                else k--;
+        int n = nums.length;
+        for(int i = n-3;i >= 0;i--){
+            if(isTriangle(nums[i],nums[i+1],nums[i+2])){
+                int p = nums[i] + nums[i+1] + nums[i+2];
+                return p;
             }
         }
 
-        return maxPerimeter;
+        return 0;
     }
 }

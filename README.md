@@ -128,6 +128,7 @@ Hello,
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
+| [0976-largest-perimeter-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0997-find-the-town-judge) |
@@ -492,6 +493,7 @@ Hello,
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
@@ -619,6 +621,7 @@ Hello,
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0887-super-egg-drop) |
 | [0908-smallest-range-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0908-smallest-range-i) |
+| [0976-largest-perimeter-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1025-divisor-game) |
 | [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
@@ -1621,6 +1624,7 @@ Hello,
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
+| [0976-largest-perimeter-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
@@ -2001,4 +2005,12 @@ Hello,
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->

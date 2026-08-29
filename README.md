@@ -150,6 +150,7 @@ Hello,
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1293-three-consecutive-odds](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-three-consecutive-odds) |
@@ -1087,6 +1088,7 @@ Hello,
 | [1020-number-of-enclaves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1020-number-of-enclaves) |
 | [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
@@ -1630,6 +1632,7 @@ Hello,
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1253-reconstruct-a-2-row-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1328-break-a-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |

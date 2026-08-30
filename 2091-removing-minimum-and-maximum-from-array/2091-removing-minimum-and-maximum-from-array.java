@@ -13,9 +13,7 @@ class Solution {
             }
         }
 
-        int low = Math.min(minidx , maxidx), high = Math.max(maxidx , minidx);
-        int opr = Math.min(Math.min(high + 1,low + nums.length - high + 1), nums.length - low);
-
-        return opr;
+        int low = Math.min(minidx , maxidx), high = Math.max(maxidx , minidx) , n = nums.length;
+        return Math.min(Math.min(high + 1,low + n - high + 1), n - low);
     }
 }

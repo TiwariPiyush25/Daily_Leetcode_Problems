@@ -230,6 +230,7 @@ Hello,
 | [2057-smallest-index-with-equal-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2057-smallest-index-with-equal-value) |
 | [2079-watering-plants](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2079-watering-plants) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2105-watering-plants-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2105-watering-plants-ii) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2126-destroying-asteroids](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2126-destroying-asteroids) |
@@ -1651,6 +1652,7 @@ Hello,
 | [1903-largest-odd-number-in-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1903-largest-odd-number-in-string) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |

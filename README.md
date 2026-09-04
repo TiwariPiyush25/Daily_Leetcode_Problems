@@ -1885,6 +1885,7 @@ Hello,
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0706-design-hashmap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1472-design-browser-history](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [1476-subrectangle-queries](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-subrectangle-queries) |
@@ -1935,6 +1936,7 @@ Hello,
 | [0622-design-circular-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 | [1670-design-front-middle-back-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Graph Theory
@@ -1965,6 +1967,7 @@ Hello,
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
 ## Doubly-Linked List

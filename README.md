@@ -258,6 +258,7 @@ Hello,
 | [2293-min-max-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2293-min-max-game) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -431,6 +432,7 @@ Hello,
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2325-decode-the-message](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2351-first-letter-to-appear-twice) |
+| [2352-equal-row-and-column-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2367-number-of-arithmetic-triplets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2370-longest-ideal-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2370-longest-ideal-subsequence) |
@@ -961,6 +963,7 @@ Hello,
 | [2288-count-operations-to-obtain-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2293-min-max-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2293-min-max-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2352-equal-row-and-column-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2390-removing-stars-from-a-string) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
@@ -1120,6 +1123,7 @@ Hello,
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |

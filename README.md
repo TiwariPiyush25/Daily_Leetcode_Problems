@@ -349,6 +349,7 @@ Hello,
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0126-word-ladder-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0127-word-ladder) |
@@ -603,6 +604,7 @@ Hello,
 | ------- |
 | [0002-add-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0070-climbing-stairs) |
@@ -727,6 +729,7 @@ Hello,
 | [0005-longest-palindromic-substring](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0008-string-to-integer-atoi) |
+| [0012-integer-to-roman](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |

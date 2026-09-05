@@ -341,6 +341,7 @@ Hello,
 | [3875-construct-uniform-parity-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3975-filter-occupied-intervals) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
@@ -1807,6 +1808,7 @@ Hello,
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3904-smallest-stable-index-ii) |
 ## Quickselect
 |  |
 | ------- |

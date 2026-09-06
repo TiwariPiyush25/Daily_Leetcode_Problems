@@ -6,13 +6,9 @@ class Solution {
         minheap.add(new int[]{0,0,grid[0][0],k,2});
         
         int[][][][] cost = new int[m][n][k+1][3];
-        for(int i = 0;i < m;i++){
-            for(int j = 0;j < n;j++){
-                for(int l = 0;l <= k;l++){
-                    cost[i][j][l][0] = Integer.MAX_VALUE;
-                    cost[i][j][l][1] = Integer.MAX_VALUE;
-                    cost[i][j][l][2] = Integer.MAX_VALUE;
-                }
+        for(int[][][] arr : cost){
+            for(int[][] brr : arr){
+                for(int[] crr : brr) Arrays.fill(crr , Integer.MAX_VALUE);
             }
         }
         cost[0][0][k][2] = grid[0][0];

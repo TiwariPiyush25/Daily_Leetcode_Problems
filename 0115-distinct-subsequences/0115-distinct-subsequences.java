@@ -4,7 +4,6 @@ class Solution {
         if(temp.equals(t)) return 1;
         if((len > 0 && temp.charAt(len-1) != t.charAt(len-1)) || i >= s.length() || temp.length() >= t.length()) return 0;
         
-
         if(dp[i][temp.length()] != -1) return dp[i][temp.length()];
 
         int take = helper(i+1,temp+s.charAt(i),s,t,dp);

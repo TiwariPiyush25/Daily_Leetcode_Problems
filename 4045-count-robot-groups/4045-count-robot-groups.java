@@ -9,9 +9,10 @@ class Solution {
             if(dist <= distance || speed[i] > speed[prev]){
                 continue;
             }
-            
-            counter++;
-            prev = i;
+            else {
+                counter++;
+                prev = i;
+            }
         }
 
         return counter;

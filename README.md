@@ -257,6 +257,7 @@ Hello,
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 | [2293-min-max-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2293-min-max-game) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -1126,6 +1127,7 @@ Hello,
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2352-equal-row-and-column-pairs) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2373-largest-local-values-in-a-matrix) |
@@ -1429,6 +1431,7 @@ Hello,
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2304-minimum-path-cost-in-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2370-longest-ideal-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2370-longest-ideal-subsequence) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |

@@ -339,6 +339,7 @@ Hello,
 | [3693-climbing-stairs-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3731-find-missing-elements) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
@@ -1147,6 +1148,7 @@ Hello,
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -1443,6 +1445,7 @@ Hello,
 | [2787-ways-to-express-an-integer-as-sum-of-powers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2787-ways-to-express-an-integer-as-sum-of-powers) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3693-climbing-stairs-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Recursion
 |  |

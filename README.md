@@ -126,6 +126,7 @@ Hello,
 | [0908-smallest-range-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0908-smallest-range-i) |
 | [0918-maximum-sum-circular-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0922-sort-array-by-parity-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0976-largest-perimeter-triangle) |
@@ -1103,6 +1104,7 @@ Hello,
 | [0778-swim-in-rising-water](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0885-spiral-matrix-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0885-spiral-matrix-iii) |
+| [0931-minimum-falling-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [0980-unique-paths-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0980-unique-paths-iii) |
 | [0994-rotting-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0994-rotting-oranges) |
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
@@ -1412,6 +1414,7 @@ Hello,
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0887-super-egg-drop) |
 | [0918-maximum-sum-circular-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0918-maximum-sum-circular-subarray) |
+| [0931-minimum-falling-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1013-fibonacci-number) |
 | [1025-divisor-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1025-divisor-game) |
 | [1035-uncrossed-lines](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1035-uncrossed-lines) |

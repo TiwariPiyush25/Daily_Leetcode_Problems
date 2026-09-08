@@ -725,6 +725,7 @@ Hello,
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3870-count-commas-in-range](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## String

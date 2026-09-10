@@ -1219,6 +1219,7 @@ Hello,
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0814-binary-tree-pruning](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0814-binary-tree-pruning) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
@@ -1289,6 +1290,7 @@ Hello,
 | [0787-cheapest-flights-within-k-stops](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0802-find-eventual-safe-states](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0802-find-eventual-safe-states) |
+| [0814-binary-tree-pruning](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0814-binary-tree-pruning) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0841-keys-and-rooms](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0841-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
@@ -1351,6 +1353,7 @@ Hello,
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0814-binary-tree-pruning](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0814-binary-tree-pruning) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0904-leaf-similar-trees](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |

@@ -167,6 +167,7 @@ Hello,
 | [1389-create-target-array-in-the-given-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1402-reducing-dishes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -516,6 +517,7 @@ Hello,
 | [1288-remove-covered-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1387-sort-integers-by-the-power-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1387-sort-integers-by-the-power-value) |
+| [1402-reducing-dishes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1442,6 +1444,7 @@ Hello,
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1387-sort-integers-by-the-power-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1402-reducing-dishes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
@@ -1683,6 +1686,7 @@ Hello,
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1328-break-a-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1328-break-a-palindrome) |
 | [1386-cinema-seat-allocation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
+| [1402-reducing-dishes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |

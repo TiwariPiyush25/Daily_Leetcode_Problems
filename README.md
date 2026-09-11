@@ -330,6 +330,7 @@ Hello,
 | [3402-minimum-operations-to-make-columns-strictly-increasing](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3402-minimum-operations-to-make-columns-strictly-increasing) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3527-find-the-most-common-response](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -468,6 +469,7 @@ Hello,
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |
 | [3238-find-the-number-of-winning-players](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3238-find-the-number-of-winning-players) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3527-find-the-most-common-response](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3527-find-the-most-common-response) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -1171,6 +1173,7 @@ Hello,
 | [2761-prime-pairs-with-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |
 | [2843-count-symmetric-integers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2843-count-symmetric-integers) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
@@ -1475,6 +1478,7 @@ Hello,
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1922-count-good-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1922-count-good-numbers) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2573-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Memoization

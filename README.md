@@ -214,6 +214,7 @@ Hello,
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-sum-of-unique-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -1042,6 +1043,7 @@ Hello,
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2105-watering-plants-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2105-watering-plants-ii) |
@@ -1603,6 +1605,7 @@ Hello,
 | [1631-path-with-minimum-effort](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1631-path-with-minimum-effort) |
 | [1671-minimum-number-of-removals-to-make-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1671-minimum-number-of-removals-to-make-mountain-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2187-minimum-time-to-complete-trips](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2226-maximum-candies-allocated-to-k-children) |

@@ -695,6 +695,7 @@ Hello,
 | [2288-count-operations-to-obtain-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2571-find-the-pivot-integer](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2571-find-the-pivot-integer) |
 | [2578-split-with-minimum-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2600-k-items-with-the-maximum-sum) |
@@ -1718,6 +1719,7 @@ Hello,
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [2578-split-with-minimum-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2578-split-with-minimum-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2656-maximum-sum-with-exactly-k-elements) |

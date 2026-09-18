@@ -6,7 +6,6 @@ class Solution {
         while(j < s.length()){
             while(j < s.length() && s.charAt(j) == ' ') j++;
 
-            int i  = j;
             StringBuilder temp = new StringBuilder();
             while(j < s.length() && s.charAt(j) != ' ') {
                 temp.append(s.charAt(j));

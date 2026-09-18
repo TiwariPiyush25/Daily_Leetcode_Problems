@@ -49,6 +49,7 @@ Hello,
 | [0217-contains-duplicate](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0260-single-number-iii) |
@@ -371,6 +372,7 @@ Hello,
 | [0208-implement-trie-prefix-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
@@ -496,6 +498,7 @@ Hello,
 | [0169-majority-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0274-h-index) |
 | [0324-wiggle-sort-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0324-wiggle-sort-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -906,6 +909,7 @@ Hello,
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0692-top-k-frequent-words) |
@@ -2113,4 +2117,5 @@ Hello,
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

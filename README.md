@@ -2118,4 +2118,12 @@ Hello,
 | ------- |
 | [0169-majority-element](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0229-majority-element-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->

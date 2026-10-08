@@ -16,9 +16,6 @@ class Solution {
             }
 
             if(open == close){
-                open = 0;
-                close = 0;
-
                 sb.append(s.substring(l+1,i));
                 l = i + 1;
             }

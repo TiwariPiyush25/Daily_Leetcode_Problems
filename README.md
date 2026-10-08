@@ -806,6 +806,7 @@ Hello,
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0944-delete-columns-to-make-sorted](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0953-reverse-only-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0953-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1078-occurrences-after-bigram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1078-occurrences-after-bigram) |
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
@@ -1668,6 +1669,7 @@ Hello,
 | [0901-online-stock-span](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0933-increasing-order-search-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0933-increasing-order-search-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -2130,4 +2132,8 @@ Hello,
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->

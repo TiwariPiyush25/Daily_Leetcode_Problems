@@ -346,6 +346,7 @@ Hello,
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3693-climbing-stairs-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3731-find-missing-elements) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3838-weighted-word-mapping](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
@@ -579,6 +580,7 @@ Hello,
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
@@ -1751,6 +1753,7 @@ Hello,
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 ## Interactive
 |  |

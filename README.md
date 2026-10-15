@@ -358,6 +358,7 @@ Hello,
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3975-filter-occupied-intervals) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3998-minimum-operations-to-equalize-array) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -488,6 +489,7 @@ Hello,
 | [3731-find-missing-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Sorting
 |  |
 | ------- |
@@ -585,6 +587,7 @@ Hello,
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3974-maximum-total-sum-of-k-selected-elements) |
 | [3975-filter-occupied-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3975-filter-occupied-intervals) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -620,6 +623,7 @@ Hello,
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
 | ------- |
@@ -959,6 +963,7 @@ Hello,
 | [3527-find-the-most-common-response](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3527-find-the-most-common-response) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Simulation
 |  |
 | ------- |
@@ -1018,6 +1023,7 @@ Hello,
 | [3838-weighted-word-mapping](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3893-generate-tag-for-video-caption](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3893-generate-tag-for-video-caption) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -2049,6 +2055,7 @@ Hello,
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
+| [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Indexed Tree
 |  |
 | ------- |

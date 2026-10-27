@@ -1,16 +1,15 @@
 class Solution {
     public String[] createGrid(int m, int n) {
         String[] ans = new String[m];
-        
+
         for(int i = 0;i < m;i++){
-            String res = "";
+            String s = "";
             for(int j = 0;j < n;j++){
-                if(i == m-1 || j == 0){
-                    res += '.';
-                }
-                else res += '#';
+                if(i == 0 || j == n-1) s += ".";
+                else s += "#";
             }
-            ans[i] = res;
+
+            ans[i] = s;
         }
 
         return ans;

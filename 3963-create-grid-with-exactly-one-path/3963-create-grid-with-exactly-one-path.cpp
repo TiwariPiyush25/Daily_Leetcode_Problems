@@ -6,8 +6,8 @@ public:
         for(int i = 0;i < m;i++){
             string s;
             for(int j = 0;j < n;j++){
-                if(i == 0 || j == n-1) s += ".";
-                else s += "#";
+                if(i == 0 || j == n-1) s.push_back('.');
+                else s.push_back('#');
             }
 
             ans.push_back(s);

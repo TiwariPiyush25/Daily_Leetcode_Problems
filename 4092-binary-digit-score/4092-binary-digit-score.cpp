@@ -1,23 +1,18 @@
 class Solution {
 public:
+    int noOfSetBits(int x){
+        int cnt = 0;
+        while(x >= 2){
+            if(x % 2 == 1) cnt++;
+            x /= 2;
+        }
+        if(x == 1) cnt++;
+
+        return cnt;
+    }
     int calculateScore(int a, int b) {
-        int s1 = 0, s2 = 0;
-
-        while(a >= 2){
-            int rem = a % 2;
-            if(rem == 1) s1++;
-            a /= 2;
-        }
-
-        if(a == 1) s1++;
-
-        while(b >= 2){
-            int rem = b % 2;
-            if(rem == 1) s2++;
-            b /= 2;
-        }
-
-        if(b == 1) s2++;
+        int s1 = noOfSetBits(a);
+        int s2 = noOfSetBits(b);
 
         return (s1 >= s2) ? s1 * s2 : s2 / s1;
     }

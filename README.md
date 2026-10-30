@@ -155,6 +155,7 @@ Hello,
 | [1232-check-if-it-is-a-straight-line](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1288-remove-covered-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -412,6 +413,7 @@ Hello,
 | [1079-letter-tile-possibilities](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1079-letter-tile-possibilities) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1297-maximum-number-of-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1297-maximum-number-of-balloons) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -982,6 +984,7 @@ Hello,
 | [0999-available-captures-for-rook](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0999-available-captures-for-rook) |
 | [1103-distribute-candies-to-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1103-distribute-candies-to-people) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1252-cells-with-odd-values-in-a-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -1149,6 +1152,7 @@ Hello,
 | [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1253-reconstruct-a-2-row-binary-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1253-reconstruct-a-2-row-binary-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |

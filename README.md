@@ -625,6 +625,7 @@ Hello,
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Math
 |  |
@@ -909,6 +910,7 @@ Hello,
 | [3838-weighted-word-mapping](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3838-weighted-word-mapping) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3893-generate-tag-for-video-caption](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3893-generate-tag-for-video-caption) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1944,6 +1946,7 @@ Hello,
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -2041,6 +2044,7 @@ Hello,
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Data Stream
 |  |
 | ------- |

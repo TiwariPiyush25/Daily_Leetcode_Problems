@@ -4,7 +4,7 @@ class Solution {
         
         int r = 0, c = 0;
         boolean[][] vis = new boolean[m][n];
-        while(r < m || c < n){
+        while(r < m && c < n){
             char ch = grid[r][c];
 
             if(ch == 'R'){

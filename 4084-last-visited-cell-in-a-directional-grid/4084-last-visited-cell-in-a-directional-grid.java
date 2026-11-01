@@ -9,23 +9,19 @@ class Solution {
 
             if(ch == 'R'){
                 if(c + 1 >= n || vis[r][c + 1]) return new int[]{r,c};
-                vis[r][c] = true;
-                c++;
+                vis[r][c++] = true;
             }
             else if(ch == 'L') {
                 if(c - 1 < 0 || vis[r][c - 1]) return new int[]{r,c};
-                vis[r][c] = true;
-                c--;
+                vis[r][c--] = true;
             }
             else if(ch == 'U') {
                 if(r - 1 < 0 || vis[r - 1][c]) return new int[]{r,c};
-                vis[r][c] = true;
-                r--;
+                vis[r--][c] = true;
             }
             else {
                 if(r + 1 >= m || vis[r + 1][c]) return new int[]{r,c};
-                vis[r][c] = true;
-                r++;
+                vis[r++][c] = true;
             }
         }
         return new int[0];

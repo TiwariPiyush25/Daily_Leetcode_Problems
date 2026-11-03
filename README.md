@@ -14,6 +14,7 @@ Hello,
 | [0047-permutations-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0057-insert-interval) |
@@ -975,6 +976,7 @@ Hello,
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0495-teemo-attacking) |
 | [0537-complex-number-multiplication](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0537-complex-number-multiplication) |
@@ -1127,6 +1129,7 @@ Hello,
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0079-word-search) |

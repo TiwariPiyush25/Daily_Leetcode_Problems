@@ -167,6 +167,7 @@ Hello,
 | [1310-xor-queries-of-a-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1389-create-target-array-in-the-given-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1389-create-target-array-in-the-given-order) |
@@ -537,6 +538,7 @@ Hello,
 | [1030-matrix-cells-in-distance-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1030-matrix-cells-in-distance-order) |
 | [1288-remove-covered-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1387-sort-integers-by-the-power-value](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1387-sort-integers-by-the-power-value) |
 | [1402-reducing-dishes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -1070,6 +1072,7 @@ Hello,
 | [0942-di-string-match](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0942-di-string-match) |
 | [0953-reverse-only-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0953-reverse-only-letters) |
 | [1089-duplicate-zeros](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1089-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -1636,6 +1639,7 @@ Hello,
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |

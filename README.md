@@ -341,6 +341,7 @@ Hello,
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3527-find-the-most-common-response) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3566-partition-array-into-two-equal-product-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3566-partition-array-into-two-equal-product-subsets) |
@@ -487,6 +488,7 @@ Hello,
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3527-find-the-most-common-response](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3527-find-the-most-common-response) |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3545-minimum-deletions-for-at-most-k-distinct-characters) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -630,6 +632,7 @@ Hello,
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3341-find-minimum-time-to-reach-last-room-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3341-find-minimum-time-to-reach-last-room-i) |
 | [3342-find-minimum-time-to-reach-last-room-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3342-find-minimum-time-to-reach-last-room-ii) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3604-minimum-time-to-reach-destination-in-directed-graph](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3604-minimum-time-to-reach-destination-in-directed-graph) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
@@ -1029,6 +1032,7 @@ Hello,
 | [3226-minimum-number-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3226-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3360-stone-removal-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3360-stone-removal-game) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3597-partition-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3597-partition-string) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -1678,6 +1682,7 @@ Hello,
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Stack
 |  |
 | ------- |
@@ -2071,6 +2076,7 @@ Hello,
 | ------- |
 | [1472-design-browser-history](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1472-design-browser-history) |
 | [1670-design-front-middle-back-queue](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1670-design-front-middle-back-queue) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Biconnected Component
 |  |
 | ------- |
@@ -2079,6 +2085,7 @@ Hello,
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Indexed Tree
 |  |

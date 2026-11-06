@@ -165,6 +165,7 @@ Hello,
 | [1301-number-of-paths-with-max-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [1314-matrix-block-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1314-matrix-block-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -1168,6 +1169,7 @@ Hello,
 | [1289-minimum-falling-path-sum-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1301-number-of-paths-with-max-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1301-number-of-paths-with-max-score) |
+| [1314-matrix-block-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1314-matrix-block-sum) |
 | [1386-shift-2d-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-shift-2d-grid) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -1890,6 +1892,7 @@ Hello,
 | [1004-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-max-consecutive-ones-iii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1046-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1310-xor-queries-of-a-subarray) |
+| [1314-matrix-block-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1314-matrix-block-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |

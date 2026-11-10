@@ -1,20 +1,20 @@
 class Solution {
-    public long helper(int n,int[] costs,long[] dp){
-        if(n < 0) return Long.MAX_VALUE;
+    public long helper(int i,int n,int[] cost,long[] dp) {
+        if(i == n) return 0;
+        if(dp[i] != -1) return dp[i];
 
-        if(dp[n] != -1) return dp[n];
-        long onestep = (costs[n] + 1) + helper(n-1,costs,dp);
-        long twostep = (costs[n] + 4) +  helper(n-2,costs,dp);
-        long threestep = (costs[n] + 9) + helper(n-3,costs,dp);
+        long oneStep = Long.MAX_VALUE;
+        if(i + 1 <= n) oneStep = cost[i] + 1L + helper(i + 1 ,n ,cost ,dp);
+        long twoStep = Long.MAX_VALUE;
+        if(i + 2 <= n) twoStep = cost[i + 1] + 4L + helper(i + 2 ,n ,cost ,dp);
+        long threeStep = Long.MAX_VALUE;
+        if(i + 3 <= n) threeStep = cost[i + 2]+ 9L + helper(i + 3 ,n,cost ,dp);
 
-        return dp[n] = Math.min(onestep,Math.min(twostep,threestep));
+        return dp[i] = Math.min(oneStep , Math.min(twoStep , threeStep));
     }
     public int climbStairs(int n, int[] costs) {
-        int[] cost = new int[n+1];
-        for(int i=1;i<=n;i++) cost[i] = costs[i-1];
-
-        long[] dp = new long[n+1];
-        Arrays.fill(dp,-1);
-        return (int) helper(n,cost,dp);
+        long[] dp = new long[n + 2];
+        Arrays.fill(dp , -1L);
+        return (int) helper(0,n,costs,dp);
     }
 }

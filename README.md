@@ -321,6 +321,7 @@ Hello,
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3184-count-pairs-that-form-a-complete-day-i](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3184-count-pairs-that-form-a-complete-day-i) |
 | [3185-count-pairs-that-form-a-complete-day-ii](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/3185-count-pairs-that-form-a-complete-day-ii) |

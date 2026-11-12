@@ -252,6 +252,7 @@ Hello,
 | [2126-destroying-asteroids](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2140-solving-questions-with-brainpower](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2140-solving-questions-with-brainpower) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -1510,6 +1511,7 @@ Hello,
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [1928-minimum-cost-to-reach-destination-in-time](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1928-minimum-cost-to-reach-destination-in-time) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [2140-solving-questions-with-brainpower](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2140-solving-questions-with-brainpower) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2370-longest-ideal-subsequence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2370-longest-ideal-subsequence) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |

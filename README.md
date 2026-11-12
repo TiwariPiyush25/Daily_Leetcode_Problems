@@ -718,6 +718,7 @@ Hello,
 | [1925-count-square-sum-triples](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1925-count-square-sum-triples) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -1773,6 +1774,7 @@ Hello,
 | [2078-two-furthest-houses-with-different-colors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2126-destroying-asteroids](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2126-destroying-asteroids) |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2233-maximum-product-after-k-increments](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2233-maximum-product-after-k-increments) |

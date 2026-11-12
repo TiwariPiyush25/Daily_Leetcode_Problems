@@ -1,36 +1,25 @@
 class Solution {
-    public int longestMonotonicSubarray(int[] nums) {
-        int n = nums.length , maxlen = 0 ,i = 0, j = 0;
+    public boolean isit(int a,int b,char ch) {
+        if((ch == 'i' && a > b) || (ch == 'd' && a < b)) return true;
+        return false;
+    }
+    public int findLen(int[] nums,char ch) {
+        int n = nums.length,maxlen = 0,i = 0,j = 0,len = 0;
 
-        int len = 0;
         while(j < n) {
-            if(i == j || nums[j] > nums[j - 1]) {
-                len++;
-                j++;
+            if(i == j || isit(nums[j],nums[j-1],ch)) { 
+                len++; j++;
             }
             else {
-                maxlen = Math.max(len , maxlen);
-                len = 0;
+                maxlen = Math.max(maxlen , len);
                 i = j;
+                len = 0;
             }
         }
         maxlen = Math.max(maxlen , len);
-
-        len = 0; i = 0; j = 0;
-        while(j < n) {
-            if(i == j || nums[j] < nums[j - 1]) {
-                len++;
-                j++;
-            }
-            else {
-                maxlen = Math.max(len , maxlen);
-                len = 0;
-                i = j;
-            }
-        }
-
-        maxlen = Math.max(maxlen , len);
-
         return maxlen;
+    }
+    public int longestMonotonicSubarray(int[] nums) {
+        return Math.max(findLen(nums,'i') , findLen(nums,'d'));
     }
 }

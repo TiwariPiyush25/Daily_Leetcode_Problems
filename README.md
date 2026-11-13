@@ -73,6 +73,7 @@ Hello,
 | [0417-pacific-atlantic-water-flow](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0419-battleships-in-a-board) |
 | [0435-non-overlapping-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0436-find-right-interval) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -521,6 +522,7 @@ Hello,
 | [0354-russian-doll-envelopes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0354-russian-doll-envelopes) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0436-find-right-interval) |
 | [0451-sort-characters-by-frequency](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0455-assign-cookies) |
@@ -1630,6 +1632,7 @@ Hello,
 | [0374-guess-number-higher-or-lower](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0400-nth-digit](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0400-nth-digit) |
+| [0436-find-right-interval](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0475-heaters) |

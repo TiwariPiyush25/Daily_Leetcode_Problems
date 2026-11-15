@@ -434,6 +434,7 @@ Hello,
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1630-arithmetic-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1630-arithmetic-subarrays) |
@@ -855,6 +856,7 @@ Hello,
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1624-largest-substring-between-two-equal-characters) |
@@ -1129,6 +1131,7 @@ Hello,
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1386-cinema-seat-allocation) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1610-xor-operation-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2044-count-number-of-maximum-bitwise-or-subsets](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2044-count-number-of-maximum-bitwise-or-subsets) |
@@ -1510,6 +1513,7 @@ Hello,
 | [1402-reducing-dishes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1641-count-sorted-vowel-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
@@ -1911,6 +1915,7 @@ Hello,
 | [1422-maximum-score-after-splitting-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [1525-number-of-good-ways-to-split-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |

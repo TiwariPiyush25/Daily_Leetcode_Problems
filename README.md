@@ -190,6 +190,7 @@ Hello,
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1514-path-with-maximum-probability](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1514-path-with-maximum-probability) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -700,6 +701,7 @@ Hello,
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1577-number-of-ways-where-square-of-number-is-equal-to-product-of-two-numbers) |
@@ -1507,6 +1509,7 @@ Hello,
 | [1402-count-square-submatrices-with-all-ones](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1402-reducing-dishes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1402-reducing-dishes) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1553-minimum-number-of-days-to-eat-n-oranges) |
 | [1641-count-sorted-vowel-strings](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1641-count-sorted-vowel-strings) |
@@ -1907,6 +1910,7 @@ Hello,
 | [1314-matrix-block-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1314-matrix-block-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |

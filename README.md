@@ -285,6 +285,7 @@ Hello,
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2500-delete-greatest-value-in-each-row](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2502-sort-the-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2502-sort-the-people) |
@@ -731,6 +732,7 @@ Hello,
 | [2238-a-number-after-a-double-reversal](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2238-a-number-after-a-double-reversal) |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [2288-count-operations-to-obtain-zero](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2288-count-operations-to-obtain-zero) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -1239,6 +1241,7 @@ Hello,
 | ------- |
 | [0204-count-primes](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0204-count-primes) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2447-number-of-subarrays-with-gcd-equal-to-k](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2447-number-of-subarrays-with-gcd-equal-to-k) |
 | [2507-number-of-common-factors](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2507-number-of-common-factors) |
 | [2748-number-of-beautiful-pairs](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2748-number-of-beautiful-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2761-prime-pairs-with-target-sum) |

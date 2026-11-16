@@ -582,6 +582,7 @@ Hello,
 | [2126-destroying-asteroids](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2248-intersection-of-multiple-arrays](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2248-intersection-of-multiple-arrays) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -727,6 +728,7 @@ Hello,
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2139-minimum-moves-to-reach-target-score) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2165-smallest-value-of-the-rearranged-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2165-smallest-value-of-the-rearranged-number) |
 | [2177-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2177-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2235-add-two-integers](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/2235-add-two-integers) |

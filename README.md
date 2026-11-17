@@ -122,6 +122,7 @@ Hello,
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0827-making-a-large-island) |
 | [0848-shifting-letters](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0848-shifting-letters) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0881-boats-to-save-people) |
@@ -1662,6 +1663,7 @@ Hello,
 | [0786-k-th-smallest-prime-fraction](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0825-friends-of-appropriate-ages](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0825-friends-of-appropriate-ages) |
 | [0826-most-profit-assigning-work](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0826-most-profit-assigning-work) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0875-koko-eating-bananas) |
 | [0887-super-egg-drop](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0887-super-egg-drop) |
 | [0888-fair-candy-swap](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0888-fair-candy-swap) |
@@ -2209,4 +2211,8 @@ Hello,
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/1021-remove-outermost-parentheses) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/TiwariPiyush25/Daily_Leetcode_Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
